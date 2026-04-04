@@ -1,0 +1,56 @@
+{
+  "X_min": [
+    5.0,
+    11.0,
+    0.0,
+    3.0,
+    0.0,
+    0.0,
+    0.0,
+    1.0
+  ],
+  "X_max": [
+    56.0,
+    12.0,
+    6.0,
+    18.0,
+    3.0,
+    1.0,
+    0.0,
+    1.0
+  ],
+  "y_min": 5.0,
+  "y_max": 16.0,
+  "window": 7,
+  "n_features": 8,
+  "feature_names": [
+    "volume_pakan",
+    "bulan",
+    "hari_minggu",
+    "jam",
+    "jenis_sapi_enc",
+    "jenis_pakan_enc",
+    "kondisi_sapi_enc",
+    "status_reproduksi_enc"
+  ],
+  "categorical_encodings": {
+    "jenis_sapi": {
+      "perah jenis fh": 0,
+      "perah perabakan fh": 1,
+      "perah peranakan fh": 2,
+      "sapi perah jenis fh": 3
+    },
+    "jenis_pakan": {
+      "campuran": 0,
+      "konsentrat": 1,
+      "rumput": 2
+    },
+    "kondisi_sapi": {
+      "sehat": 0
+    },
+    "status_reproduksi": {
+      "hamil": 0,
+      "laktasi": 1
+    }
+  }
+}
