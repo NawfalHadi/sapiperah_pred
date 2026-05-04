@@ -73,34 +73,60 @@ class MilkForecasterONNX:
         # 1. Ambil data spesifik sapi tersebut
         cow_data = self.df[self.df['sapi_id'] == cow_id].copy()
         
-        # --- THE COLD START BLOCKER ---
-        # Cegah prediksi jika data sapi kurang dari ukuran Window (7 hari)
-        if len(cow_data) < self.params['window']:
-            messagebox.showwarning(
-                "Data Tidak Cukup", 
-                f"Sapi ini hanya memiliki {len(cow_data)} record data.\n\n"
-                f"Model AI membutuhkan minimal {self.params['window']} riwayat pemerahan untuk dapat memprediksi dengan akurat."
-            )
+        # 2. BLOKIR JIKA BENAR-BENAR KOSONG
+        if len(cow_data) == 0:
+            messagebox.showwarning("Kosong", "Sapi ini belum memiliki data sama sekali. Tidak bisa diprediksi.")
             return
-        
-        # 2. Feature Engineering (Waktu)
+
+        # 3. THE SMART PADDER (Mean-Padding)
+        if len(cow_data) < self.params['window']:
+            missing_count = self.params['window'] - len(cow_data)
+            
+            # Hitung rata-rata spesifik HANYA untuk sapi ini
+            mean_susu = cow_data['jumlah_susu'].mean()
+            mean_pakan = cow_data['volume_pakan'].mean()
+            
+            # Ambil record paling awal sebagai template (untuk jenis sapi, pakan, dll)
+            cow_data['tgl_pemerahan'] = pd.to_datetime(cow_data['tgl_pemerahan'])
+            first_row = cow_data.sort_values('tgl_pemerahan').iloc[0]
+            earliest_date = first_row['tgl_pemerahan']
+            
+            pad_rows = []
+            for i in range(missing_count):
+                # Mundurkan tanggal ke masa lalu secara berurutan
+                pad_date = earliest_date - pd.Timedelta(days=(missing_count - i))
+                
+                new_row = first_row.copy()
+                new_row['tgl_pemerahan'] = pad_date
+                new_row['jumlah_susu'] = mean_susu
+                new_row['volume_pakan'] = mean_pakan
+                # Kategori seperti jenis_sapi otomatis ikut tercopy dari first_row
+                
+                pad_rows.append(new_row)
+                
+            # Gabungkan data artifisial (masa lalu) dengan data asli
+            pad_df = pd.DataFrame(pad_rows)
+            cow_data = pd.concat([pad_df, cow_data], ignore_index=True)
+            
+            # Beritahu user bahwa sistem telah membantu mengisi kekosongan
+            print(f"[INFO] Padding aktif untuk {cow_id}. Ditambahkan {missing_count} hari data sintetis berdasarkan rata-rata sapi ini.")
+
+        # 4. Feature Engineering (Waktu)
         cow_data['tgl_pemerahan'] = pd.to_datetime(cow_data['tgl_pemerahan'])
         cow_data['bulan'] = cow_data['tgl_pemerahan'].dt.month
         cow_data['hari_minggu'] = cow_data['tgl_pemerahan'].dt.dayofweek
         cow_data['jam'] = cow_data['tgl_pemerahan'].dt.hour
         
-        # 3. Categorical Encoding (The Title Case Fix)
+        # 5. Categorical Encoding (The Title Case Fix)
         enc_map = self.params['categorical_encodings']
         for col in ['jenis_sapi', 'jenis_pakan', 'kondisi_sapi', 'status_reproduksi']:
             if col in cow_data.columns:
-                # Memaksa teks menjadi Title Case agar cocok dengan Dictionary di JSON
                 clean_series = cow_data[col].astype(str).str.title().str.strip()
-                # Jika ada kategori baru yg benar-benar tidak dikenal, default ke 0
                 cow_data[f'{col}_enc'] = clean_series.map(enc_map.get(col, {})).fillna(0)
         
         cow_data = cow_data.sort_values('tgl_pemerahan')
 
-        # 4. Ambil [Window] data terakhir berdasarkan feature_names dari JSON
+        # 6. Ambil [Window] data terakhir berdasarkan feature_names dari JSON
         feature_cols = self.params['feature_names']
         try:
             last_features = cow_data[feature_cols].tail(self.params['window']).values.astype(np.float32)
@@ -108,7 +134,7 @@ class MilkForecasterONNX:
             messagebox.showerror("Error Kolom", f"Struktur data tidak sesuai dengan model. Kolom hilang: {e}")
             return
 
-        # 5. Scaling Input
+        # 7. Scaling Input
         x_min, x_max = np.array(self.params['X_min']), np.array(self.params['X_max'])
         current_window = (last_features - x_min) / (x_max - x_min + 1e-7)
 
@@ -119,7 +145,7 @@ class MilkForecasterONNX:
         except ValueError:
             days = 7
 
-        # 6. Recursive Loop Prediksi ONNX
+        # 8. Recursive Loop Prediksi ONNX
         input_name = self.ort_session.get_inputs()[0].name
         
         for _ in range(days):
@@ -137,8 +163,6 @@ class MilkForecasterONNX:
 
             # Update Window (Rolling 1 step forward)
             new_row = current_window[-1].copy()
-            # Asumsi jumlah_susu adalah target yang diprediksi. 
-            # Note: Dalam realita, fitur lain (seperti pakan) diasumsikan konstan di masa depan
             new_row[0] = pred_scaled 
             current_window = np.roll(current_window, -1, axis=0)
             current_window[-1] = new_row
