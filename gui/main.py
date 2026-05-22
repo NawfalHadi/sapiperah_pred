@@ -7,15 +7,15 @@ import json
 import os
 
 # --- KONFIGURASI PATH ---
-# BASE_DIR = "model_outputs"
-# ONNX_PATH = os.path.join(BASE_DIR, "milk_lstm.onnx")
-# PARAMS_PATH = os.path.join(BASE_DIR, "scaler_params.json")
-# DATASET_PATH = "dataset/dataset_sapi_lstm.csv" 
-
-BASE_DIR = "model_outputs/massive"
+BASE_DIR = "model_outputs"
 ONNX_PATH = os.path.join(BASE_DIR, "milk_lstm.onnx")
 PARAMS_PATH = os.path.join(BASE_DIR, "scaler_params.json")
-DATASET_PATH = "dataset/massive_dataset_sapi_lstm.csv" 
+DATASET_PATH = "dataset/dataset_sapi_lstm.csv" 
+
+# BASE_DIR = "model_outputs/massive"
+# ONNX_PATH = os.path.join(BASE_DIR, "milk_lstm.onnx")
+# PARAMS_PATH = os.path.join(BASE_DIR, "scaler_params.json")
+# DATASET_PATH = "dataset/massive_dataset_sapi_lstm.csv" 
 
 class MilkForecasterONNX:
     def __init__(self, root):

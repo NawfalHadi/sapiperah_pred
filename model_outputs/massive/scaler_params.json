@@ -1,27 +1,27 @@
 {
   "X_min": [
-    5.0,
-    11.0,
+    37.0,
+    10.0,
     0.0,
-    3.0,
+    10.0,
     0.0,
     0.0,
     0.0,
     0.0
   ],
   "X_max": [
-    56.0,
+    67.0,
     12.0,
     6.0,
-    18.0,
-    5.0,
+    16.0,
+    1.0,
     2.0,
     0.0,
     1.0
   ],
-  "y_min": 0.0,
-  "y_max": 20.0,
-  "window": 7,
+  "y_min": 1.0,
+  "y_max": 28.0,
+  "window": 30,
   "n_features": 8,
   "feature_names": [
     "volume_pakan",
@@ -35,12 +35,8 @@
   ],
   "categorical_encodings": {
     "jenis_sapi": {
-      "Perah jenis FH": 0,
-      "Perah perabakan FH": 1,
-      "Perah peranakan FH": 2,
-      "perah jenis FH": 3,
-      "perah peranakan FH": 4,
-      "sapi perah jenis FH": 5
+      "Perah Jenis Fh": 0,
+      "Perah Peranakan Fh": 1
     },
     "jenis_pakan": {
       "Campuran": 0,
