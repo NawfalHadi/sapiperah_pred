@@ -16,7 +16,7 @@ class MilkForecasterONNX:
     def __init__(self, root):
         self.root = root
         self.root.title("🐄 Milk Predictor (Robust LSTM Version)")
-        self.root.geometry("550x650")
+        self.root.geometry("650x700") # Made wider to fit the new column
 
         try:
             # 1. Load metadata
@@ -26,7 +26,7 @@ class MilkForecasterONNX:
             # 2. Load ONNX Session
             self.ort_session = ort.InferenceSession(ONNX_PATH)
             
-            # 3. Load Dataset safely (FIXED: Keeping all records including 0 milk for Hamil status)
+            # 3. Load Dataset safely (Keeping all records including 0 milk for Hamil status)
             self.df = pd.read_csv(DATASET_PATH)
             
             # Safely drop text columns not needed for the math to prevent errors
@@ -60,8 +60,6 @@ class MilkForecasterONNX:
         self.days_entry.insert(0, "7")
 
         ttk.Label(main_frame, text="Skenario Pembagian Pakan:").pack(anchor="w", pady=(10, 0))
-        
-        # Dropdown to choose Option 1 or Option 2
         self.pakan_mode = ttk.Combobox(main_frame, values=["1. Gunakan Rata-rata 30 Hari Terakhir", "2. Bagi Sama Rata (Input Manual)"], state="readonly")
         self.pakan_mode.pack(fill=tk.X, pady=5)
         self.pakan_mode.set("1. Gunakan Rata-rata 30 Hari Terakhir")
@@ -69,7 +67,7 @@ class MilkForecasterONNX:
         ttk.Label(main_frame, text="Total Pakan (Hanya jika memilih Opsi 2):").pack(anchor="w")
         self.pakan_entry = ttk.Entry(main_frame)
         self.pakan_entry.pack(fill=tk.X, pady=5)
-        self.pakan_entry.insert(0, "350") # Example: 350kg for 7 days = 50kg/day
+        self.pakan_entry.insert(0, "350")
 
         self.predict_btn = ttk.Button(main_frame, text="🚀 Jalankan Prediksi", command=self.run_forecasting)
         self.predict_btn.pack(fill=tk.X, pady=20)
@@ -117,15 +115,16 @@ class MilkForecasterONNX:
 
         predictions = []
         status_history = []
+        pakan_history = [] # NEW TRACKER
         total_milk = 0
+        
         try:
             days = int(self.days_entry.get())
         except ValueError:
             days = 7
 
-        # 6. Recursive Forecasting Loop (WITH DYNAMIC REPRODUCTION CYCLE)
+        # 6. Recursive Forecasting Loop Setup
         input_name = self.ort_session.get_inputs()[0].name
-        
         last_unscaled_row = cow_data[feature_cols].iloc[-1].copy()
         last_date = cow_data['tgl_pemerahan'].max()
         
@@ -141,26 +140,19 @@ class MilkForecasterONNX:
         recent_history = cow_data.tail(self.params['window'])
         days_in_status = len(recent_history[recent_history['status_reproduksi'] == status_text])
 
-        # Count how many days the cow has already been in this status based on recent history
-        recent_history = cow_data.tail(self.params['window'])
-        days_in_status = len(recent_history[recent_history['status_reproduksi'] == status_text])
-
-        # --- NEW FEED CALCULATION LOGIC ---
+        # --- FEED CALCULATION LOGIC ---
         mode = self.pakan_mode.get()
         if "1" in mode:
-            # Option 1: Rolling Average of the last 30 days
             daily_pakan = recent_history['volume_pakan'].mean()
         else:
-            # Option 2: Sama Rata from Input
             try:
                 total_pakan = float(self.pakan_entry.get())
                 daily_pakan = total_pakan / days
                 if daily_pakan < 20:
-                    messagebox.showwarning("Peringatan ML", f"Pakan harian ({daily_pakan:.1f} kg) di bawah batas training 20 kg. Prediksi LSTM mungkin tidak akurat/anjlok!")
+                    messagebox.showwarning("Peringatan ML", f"Pakan harian ({daily_pakan:.1f} kg) di bawah batas training 20 kg. Prediksi LSTM mungkin anjlok!")
             except ValueError:
                 messagebox.showerror("Error", "Input total pakan tidak valid! Jatuh kembali ke rata-rata.")
                 daily_pakan = recent_history['volume_pakan'].mean()
-        # ----------------------------------
 
         for i in range(days):
             input_data = current_window.reshape(1, self.params['window'], self.params['n_features']).astype(np.float32)
@@ -179,6 +171,7 @@ class MilkForecasterONNX:
             predictions.append(pred_liter)
             total_milk += pred_liter
             status_history.append(status_text)
+            pakan_history.append(daily_pakan) # TRACKING THE FEED USED
 
             # --- BIOLOGICAL CYCLE SIMULATION ---
             days_in_status += 1
@@ -197,14 +190,9 @@ class MilkForecasterONNX:
             next_unscaled_row = last_unscaled_row.copy()
             next_unscaled_row['bulan'] = next_date.month
             next_unscaled_row['hari_minggu'] = next_date.dayofweek
-            next_unscaled_row['status_reproduksi_enc'] = current_status_enc  # Dynamically updated!
+            next_unscaled_row['status_reproduksi_enc'] = current_status_enc
             
-            # # Adjust volume_pakan based on status to simulate realistic farming
-            # if status_text == 'Hamil':
-            #     next_unscaled_row['volume_pakan'] = 45.0  # Pregnancy feed
-            # else:
-            #     next_unscaled_row['volume_pakan'] = 55.0  # Lactation feed
-
+            # Apply the chosen feed
             next_unscaled_row['volume_pakan'] = daily_pakan
             
             # Scale the newly constructed feature row
@@ -214,16 +202,17 @@ class MilkForecasterONNX:
             current_window = np.roll(current_window, -1, axis=0)
             current_window[-1] = next_scaled_row
 
-        self.display_results(predictions, status_history, total_milk)
+        self.display_results(predictions, status_history, pakan_history, total_milk)
 
-    def display_results(self, preds, statuses, total):
+    def display_results(self, preds, statuses, pakans, total):
         self.result_text.config(state="normal")
         self.result_text.delete(1.0, tk.END)
-        self.result_text.insert(tk.END, f"{'Hari':<8} | {'Status':<12} | {'Prediksi (Liter)':<15}\n")
-        self.result_text.insert(tk.END, "-"*42 + "\n")
-        for i, (p, s) in enumerate(zip(preds, statuses), 1):
-            self.result_text.insert(tk.END, f"Hari {i:<3} | {s:<12} | {p:>10.2f} L\n")
-        self.result_text.insert(tk.END, "-"*42 + "\n")
+        # Add Pakan column and adjust widths
+        self.result_text.insert(tk.END, f"{'Hari':<8} | {'Status':<12} | {'Pakan (Kg)':<12} | {'Prediksi Susu (L)':<15}\n")
+        self.result_text.insert(tk.END, "-"*58 + "\n")
+        for i, (p, s, feed) in enumerate(zip(preds, statuses, pakans), 1):
+            self.result_text.insert(tk.END, f"Hari {i:<3} | {s:<12} | {feed:>10.2f} | {p:>15.2f} L\n")
+        self.result_text.insert(tk.END, "-"*58 + "\n")
         self.result_text.insert(tk.END, f"TOTAL ESTIMASI SUSU: {total:.2f} Liter")
         self.result_text.config(state="disabled")
 
