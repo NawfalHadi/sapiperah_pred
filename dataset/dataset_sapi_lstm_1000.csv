@@ -1,0 +1,1001 @@
+sapi_id,nama_sapi,jenis_sapi,tgl_lahir,pemerahan_id,tgl_pemerahan,jumlah_susu,volume_pakan,jenis_pakan,kondisi_sapi,pemerah,status_reproduksi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,zsgagSgkHraCVLnOr0Ap,2025-11-27 09:03:29,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,NOjfWwUcUs0Fli3nerFW,2025-11-28 08:30:08,11,52,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,t9szD2VN6zFh4JB7AqO9,2025-11-29 12:03:21,14,53,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,Ck7vBQ7DV40reJ6aGuJW,2025-11-30 10:25:42,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,3QxAOskEzZeNqyxJK2R8,2025-12-01 10:36:58,12,53,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,XsCq52hTjGU7qpuKPZ0Q,2025-12-02 16:12:33,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,T268nbyJiYrys3vYPnR9,2025-12-02 18:48:22,16,52,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,Yxo4T6LUDyYkZBfrCKlq,2025-12-04 16:13:24,13,52,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,HHkQErKnqLWAfTIzNT2v,2025-12-05 15:32:23,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,HOz9SAWGflgaFU9ffvR7,2025-12-06 16:11:34,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,Sqp4ULlDRd8q58GG2Kar,2025-12-07 08:01:30,12,5,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,EcitikonI4q9xmEqeuJ2,2025-12-26 11:40:29,8,52,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,TuptKYCSDQa0qy80EvJX,2025-12-28 13:08:53,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,MF7DE7rSnEaD5KeO4DfV,2025-12-29 13:08:53,15,59,Rumput,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,R9f3b6s7bOJUDSq7k2EF,2025-12-30 13:08:53,12,56,Campuran,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,9AbVFvSUQ55inTWY04Iz,2025-12-31 13:08:53,14,60,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,YgwNSOOH0J7z2FnqD8bL,2026-01-01 13:08:53,14,57,Rumput,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,lLjftsgXfdPgxUEN3dvI,2026-01-02 13:08:53,10,58,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,ytRvURs0gTxb0BQ44KWD,2026-01-03 13:08:53,12,59,Rumput,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,ju7Vfxe0qmZHFbdUY4Li,2026-01-04 13:08:53,17,54,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,pIwglZWCL4A6VLqfGEw2,2026-01-05 13:08:53,15,52,Campuran,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,dbjiOxfpUZGmkSJicba0,2026-01-06 13:08:53,11,53,Campuran,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,oFESvNUuvBoCn6Klfqx6,2026-01-07 13:08:53,14,60,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,AflYgIvOGu9Gm5X7DsKR,2026-01-08 13:08:53,14,58,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,nC7aDeYXXpY5E6OtZU4Z,2026-01-09 13:08:53,13,58,Campuran,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,nrEgiDzsMUzgxPFl5jC9,2026-01-10 13:08:53,12,54,Rumput,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,wL7TQ8Sm9DRe8J90X42v,2026-01-11 13:08:53,12,56,Campuran,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,iNpJkeZY9InqiRByMwwn,2026-01-12 13:08:53,12,56,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,5h03zsHa3VeuxIg2yohL,2026-01-13 13:08:53,15,58,Rumput,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,qhZz16Edq3lnFYSitVot,2026-01-14 13:08:53,15,51,Campuran,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,PIbzuLeVQxMMz6aaopAK,2026-01-15 13:08:53,11,57,Campuran,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,n6Nl9F2b021Xdz0PDsOP,2026-01-16 13:08:53,14,53,Rumput,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,vpMAZfZFxAdcjfkECbgi,2026-01-17 13:08:53,13,51,Rumput,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,VZf8jqAiISOsKItxGoGs,2026-01-18 13:08:53,12,51,Campuran,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,dju4gbPApAwNn1bHe1u4,2026-01-19 13:08:53,13,54,Rumput,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,qM2D8eGDXH2OjeoGmhXq,2026-01-20 13:08:53,17,52,Campuran,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,p5PTgzGJS1i0N06dFOvK,2026-01-21 13:08:53,15,52,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,Z5HauR8LRmNaIEaw6AGP,2026-01-22 13:08:53,12,53,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,ZSJZVK6eexrfu1nZoDyN,2026-01-23 13:08:53,13,52,Campuran,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,j6QBIhMhSJeEvzBrblWW,2026-01-24 13:08:53,14,52,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,3XgfVLc97No7IhVuCnGe,2026-01-25 13:08:53,14,56,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,Q0hifs7s0skBOyWNeHu3,2026-01-26 13:08:53,11,51,Campuran,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,Ku3AymqYfrzUpzcL0zsm,2026-01-27 13:08:53,17,50,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,wCY6dcdZZHYqdNaNmKy5,2026-01-28 13:08:53,12,54,Campuran,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,LfXVRjUOyNUkua6XDzCN,2026-01-29 13:08:53,18,52,Rumput,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,ClyRNyCTFOABNNIA8j87,2026-01-30 13:08:53,10,50,Campuran,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,kY93xYbBuMKDA65QxUcK,2026-01-31 13:08:53,12,55,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,zLuwlztlmi31EZunJm9x,2026-02-01 13:08:53,12,56,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,Qo01cWec784O8uKIryHN,2026-02-02 13:08:53,10,53,Campuran,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,0U5iHauMCy2Zj76ACBbo,2026-02-03 13:08:53,11,60,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,dWzfcXH5HWqzlWEYPcO0,2026-02-04 13:08:53,12,53,Rumput,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,pWhUmTytzdjpJUeiNvnh,2026-02-05 13:08:53,13,53,Campuran,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,iZFjwBAqBcrcjFd7Cymk,2026-02-06 13:08:53,16,59,Campuran,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,L4AjHsDgO2wb8Ccjd6DY,2026-02-07 13:08:53,14,54,Rumput,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,La2CAOTiDb3if08pjEMB,2026-02-08 13:08:53,14,51,Rumput,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,aCmCUK0IavYneejT0P8k,2026-02-09 13:08:53,12,50,Rumput,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,6Wm85aPYVQ5R5CZ9FfdD,2026-02-10 13:08:53,15,51,Rumput,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,mUdYE04937YQ7rgKnvqB,2026-02-11 13:08:53,13,51,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,ZtfDdLRfVtW7TxHlMdKi,2026-02-12 13:08:53,17,57,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,8Or0S2iilGtphSwF7dLa,2026-02-13 13:08:53,13,53,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,tdbPXYjMXHlIiXTeaMwo,2026-02-14 13:08:53,13,55,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,ROg1DsdkJruOIkdwPTwt,2026-02-15 13:08:53,15,56,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,50gCDIawiY0fBYoTrYm9,2026-02-16 13:08:53,11,56,Rumput,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,NwkiN6yvS1dG3qdczVB5,2026-02-17 13:08:53,16,56,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,ijVIzEJ7hUQCBaoqiksP,2026-02-18 13:08:53,15,58,Campuran,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,gozriH3w2kwWzYxbtc73,2026-02-19 13:08:53,14,53,Campuran,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,gUwh30Mr4GcEpRSL5PYU,2026-02-20 13:08:53,13,60,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,GL8jvKkKKmKiRKJKZafc,2026-02-21 13:08:53,12,58,Campuran,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,1hGyoXtF4yEc09T2zDsF,2026-02-22 13:08:53,12,57,Campuran,Sehat,Sri Raharja,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,FIikL9AQTI5euBV8E9BY,2026-02-23 13:08:53,15,59,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,rjVLGxywi37LVHsiY3bX,2026-02-24 13:08:53,12,58,Campuran,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,efDQrmbrsRhhmhP8owPF,2026-02-25 13:08:53,17,59,Rumput,Sehat,Joko,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,LrAijJVcwbxh5b5AT43m,2026-02-26 13:08:53,11,54,Campuran,Sehat,Budi,Laktasi
+1azOwdcfRGYY5QyJdQsa,DARA SULIS,perah peranakan FH,2021-06-22 05:05:27,Yj7tnRtMHpy7tOFzAycx,2026-02-27 13:08:53,14,56,Campuran,Sehat,Joko,Laktasi
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,zsIPqoD9hqK7HBSEyhHU,2025-11-27 09:04:55,0,53,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,KKxHrVfyazT4yLjjEsDk,2025-11-28 08:33:52,0,52,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,8VUPT0tjgwPWJ1Rt41HA,2025-11-28 08:41:49,0,50,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,SLfK9SerlNWCfyfvIqpX,2025-11-29 12:04:08,0,53,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,bqNpB2qmVO7J3k1w58KK,2025-11-30 10:26:27,0,53,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,c4sJBIJqacBhbrfwpUwd,2025-12-01 10:37:33,0,52,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,5mVoSDB5wky62LeWRrGx,2025-12-02 16:15:43,0,52,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,HyEb6iVJTYnkNXRsdfnm,2025-12-02 18:49:05,0,52,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,0Oh0Lo69OpzOPNqXtIVp,2025-12-04 16:16:15,0,51,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,NSOcU4KJ5YI3iFT2wvTx,2025-12-05 15:35:26,0,55,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,WpbuwP0XtwZiHwVAYTlT,2025-12-05 16:22:19,0,53,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,HevVixxqh2h2eYYxQmFl,2025-12-06 16:15:03,0,52,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,zSfRgVuBdJw2jbKjeCmB,2025-12-07 08:02:58,0,52,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,sST0nbhSTVowD1WjZ5R1,2025-12-26 11:42:05,0,52,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,tIhbSdqE129SNDgy3ak0,2025-12-28 13:09:43,0,53,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,3CGE1GGtvqI2NaCAj4f5,2025-12-29 13:09:43,0,47,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,0Ze0mI13MoSiwxo3IrMN,2025-12-30 13:09:43,0,48,Rumput,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,fjbTMcGd9zIw7vY9EKCn,2025-12-31 13:09:43,0,48,Campuran,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,3T1rgr2oyy5yDYUf7AjL,2026-01-01 13:09:43,0,48,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,zUMsR48EA9grAFJLqjbr,2026-01-02 13:09:43,0,47,Rumput,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,iztPBjCMzsj5jpEnhm24,2026-01-03 13:09:43,0,50,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,9hRB8dh5z4RoEH1EjLus,2026-01-04 13:09:43,0,46,Campuran,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,BSAEHC0eoMphB0pMlGsl,2026-01-05 13:09:43,0,45,Rumput,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,puRSgffALR7WA2SNLlSz,2026-01-06 13:09:43,0,45,Rumput,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,ooGoDjCFZjmcOQOhG5bY,2026-01-07 13:09:43,0,47,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,75vxSR7JI5UzT0xjPpbL,2026-01-08 13:09:43,0,46,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,LGpaX1yswfTrPUbnQnQ4,2026-01-09 13:09:43,0,50,Rumput,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,IyRLIdX1abU7yLiIKjS5,2026-01-10 13:09:43,0,42,Campuran,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,wfpJqd09uVp3475dfJoI,2026-01-11 13:09:43,0,46,Rumput,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,jwumLcHXdCpDbggPQdIZ,2026-01-12 13:09:43,0,43,Rumput,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,h0x0MPneVEUs7TxW0XJ2,2026-01-13 13:09:43,0,48,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,VKHRpJFUqpELorgqnLJD,2026-01-14 13:09:43,0,42,Rumput,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,icyPWDiEvpqHXlPib8zM,2026-01-15 13:09:43,0,47,Rumput,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,n6cHUcuLNOiNUqmdw4u1,2026-01-16 13:09:43,0,46,Rumput,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,lcqi1z4j464k4hPd0kmi,2026-01-17 13:09:43,0,40,Rumput,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,P3XYI9VFxVi68XQnJipD,2026-01-18 13:09:43,0,41,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,2FhnQ5sT381xztPLVQYX,2026-01-19 13:09:43,0,45,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,3MSJn8I16U8hLfyDOiFm,2026-01-20 13:09:43,0,44,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,jbUfAiLdCiuChWQsaIwn,2026-01-21 13:09:43,0,46,Rumput,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,ylnsfHQaUdEGucAOy14j,2026-01-22 13:09:43,0,50,Rumput,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,aRgdFnUE9lQpdDKSJzea,2026-01-23 13:09:43,0,44,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,GT1cWfZjutI5W5rXQgWn,2026-01-24 13:09:43,0,44,Campuran,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,aAnhT0KefmoGn3lRUDUq,2026-01-25 13:09:43,0,43,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,oCTXHdRQh7CHWb8Xm2HD,2026-01-26 13:09:43,0,44,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,aU90taLJylhAzZXKGxqn,2026-01-27 13:09:43,0,45,Rumput,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,ZlxW12vaylf5BIfkHitA,2026-01-28 13:09:43,0,49,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,uKzxvESi5TRIAz6QK4tP,2026-01-29 13:09:43,0,45,Rumput,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,1K6QvijpObdhkqmmc7sv,2026-01-30 13:09:43,0,49,Rumput,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,mFSOFc67Mf0qIuntXEHe,2026-01-31 13:09:43,0,45,Rumput,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,ezPtoXFmYy4FrUHQE5aZ,2026-02-01 13:09:43,0,40,Rumput,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,Qyh6BRCtPU9U6RQo9NVP,2026-02-02 13:09:43,0,40,Rumput,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,NfMB1Wv0ja8JsUTTiVjM,2026-02-03 13:09:43,0,50,Rumput,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,JGFQOWlhH19WZhJR6cr2,2026-02-04 13:09:43,0,42,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,ptqKJ3JPrh4t0wW3nEpz,2026-02-05 13:09:43,0,44,Rumput,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,SD2IFkIYD7CzdlyQ7ptw,2026-02-06 13:09:43,0,44,Rumput,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,G2QooQALvsgI0IF5UCWo,2026-02-07 13:09:43,0,42,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,64spW9zqDfAtsEyZVpLc,2026-02-08 13:09:43,0,49,Campuran,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,VCyhtFYF3JQ2pJGtjWN5,2026-02-09 13:09:43,0,41,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,EXd3AY9vUC5jEikMuFFG,2026-02-10 13:09:43,0,40,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,tX5wsxJswVKKIPMZVk8z,2026-02-11 13:09:43,0,49,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,dbk0oYYHtoxJkRg3VFsw,2026-02-12 13:09:43,0,45,Rumput,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,dtYObYlYJFxxqKW9Ytq5,2026-02-13 13:09:43,0,48,Rumput,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,Idd3AZe7kVlwELgksHuk,2026-02-14 13:09:43,0,43,Campuran,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,Io8hYkHmc9kgS79aXfr0,2026-02-15 13:09:43,0,42,Rumput,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,bqCH0YCf83gdIql6R9cr,2026-02-16 13:09:43,0,50,Rumput,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,v2DDNui944PWrcM1uIXj,2026-02-17 13:09:43,0,43,Rumput,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,cqrj4ZmMN7FBrLNfWAUH,2026-02-18 13:09:43,0,45,Rumput,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,TaVAdEPU67lJXTjTT4Fc,2026-02-19 13:09:43,0,48,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,N92Iuz1rOWXHKblF9Mcp,2026-02-20 13:09:43,0,44,Rumput,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,omXDrz7rx7xR6cd4JvK5,2026-02-21 13:09:43,0,46,Campuran,Sehat,Sri Raharja,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,Ow7XdU0yGC9iAfXA5FE6,2026-02-22 13:09:43,0,42,Campuran,Sehat,Budi,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,RfkssntyYMgyAeGVHlxf,2026-02-23 13:09:43,0,44,Rumput,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,CvRLx4R0hx8TtL0SpAs9,2026-02-24 13:09:43,0,45,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,Hkaisp45DhrGjUcb9WpK,2026-02-25 13:09:43,0,43,Campuran,Sehat,Joko,Hamil
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,1sATq6tbsvPNmwhyXhRX,2026-02-26 13:09:43,10,50,Rumput,Sehat,Budi,Laktasi
+40ArmwBi9f13vbICuKf9,IDRIS WOMAN,Perah peranakan FH,2025-11-27 09:04:40,g6jR0vyDLhhS2FZ97NWs,2026-02-27 13:09:43,14,57,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,tbjCs8E738821y2XNkJb,2025-11-27 09:05:44,0,53,Campuran,Sehat,Sri Raharja,Hamil
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,dw2seXYzkcVDyr4AONfo,2025-11-28 08:36:52,0,53,Campuran,Sehat,Sri Raharja,Hamil
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,9MkTWVyA0omltIJaWZaN,2025-11-28 08:42:28,0,55,Campuran,Sehat,Sri Raharja,Hamil
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,LhzJlnsay4WIATQWTQZK,2025-11-29 12:04:49,0,53,Campuran,Sehat,Sri Raharja,Hamil
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,IgQC67l4eaAsU096wiPX,2025-12-01 10:27:01,0,54,Campuran,Sehat,Sri Raharja,Hamil
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,2t5ui5ULqB2k6RXyPZm7,2025-12-02 16:20:04,0,52,Campuran,Sehat,Sri Raharja,Hamil
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,EKxgFYYSwa0vtqOqVliD,2025-12-02 18:47:32,0,52,Campuran,Sehat,Sri Raharja,Hamil
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,cNWxkEPAyr90aOQFge2d,2025-12-04 16:21:15,0,53,Campuran,Sehat,Sri Raharja,Hamil
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,Fps7kXukkT4pMrIE4T6f,2025-12-05 16:23:01,0,55,Campuran,Sehat,Sri Raharja,Hamil
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,0tJ3HjSzBs7F78B34a52,2025-12-06 16:21:55,0,52,Campuran,Sehat,Sri Raharja,Hamil
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,eAEJFFBV9t8srEWspu8T,2025-12-07 08:03:38,0,52,Campuran,Sehat,Sri Raharja,Hamil
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,mEILNV2WFy3rWjECLSVt,2025-12-26 11:44:03,20,53,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,EZqp9VhrjF3DOQ3ukJJ9,2025-12-28 13:10:26,20,53,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,Gqh5aUN8hbLMn7zMaaNc,2025-12-29 13:10:26,14,56,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,N9xrCkUS25uSb78zswqe,2025-12-30 13:10:26,15,58,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,z2EmaUXJ9iv8BS9LnLq4,2025-12-31 13:10:26,14,56,Rumput,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,aItQOAZ6pQoLsUpdYV2S,2026-01-01 13:10:26,11,55,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,PNBnSgVRoxHDF3ftvf1k,2026-01-02 13:10:26,13,53,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,mZ8tM0BVApOH5Yf49IKf,2026-01-03 13:10:26,18,50,Rumput,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,FU7atWVTL9DvRi0dmPCT,2026-01-04 13:10:26,13,50,Rumput,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,riFXeCvMZKJEHvhEdbRr,2026-01-05 13:10:26,9,50,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,tu4o3jHfF2tCtpK1iHeJ,2026-01-06 13:10:26,10,55,Rumput,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,RYBbZLDpJyyknEOPDCjx,2026-01-07 13:10:26,18,56,Campuran,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,h3sONxPeQcnn4Yds5995,2026-01-08 13:10:26,10,57,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,8JHqB2G6Y39D6ClGOJ0v,2026-01-09 13:10:26,12,58,Rumput,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,6yw9kMr1hlswDLCtwbkc,2026-01-10 13:10:26,15,56,Campuran,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,1BZlWE0DA3Umailytrn3,2026-01-11 13:10:26,13,58,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,i7mNSKoIqj7Y71DToGls,2026-01-12 13:10:26,14,51,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,UEnd5Hl5oMTp294XgxJh,2026-01-13 13:10:26,16,60,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,oEwR8C9MJXtkj4fFmp2i,2026-01-14 13:10:26,14,57,Campuran,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,VVTkjsCDuCP6X5yjng19,2026-01-15 13:10:26,15,55,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,GhF16VBfTJn0yfrgwmV2,2026-01-16 13:10:26,17,50,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,onwbK2Bu0DlzUZYPX8a9,2026-01-17 13:10:26,12,52,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,BSbAdgTRPfxNEUiNvXAs,2026-01-18 13:10:26,12,53,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,ZxHiviH63Vw6XHMkYLle,2026-01-19 13:10:26,15,58,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,HYtBmfa0DVL6VBCuKZMM,2026-01-20 13:10:26,17,52,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,TxqOinC1FraVO8XvlK8i,2026-01-21 13:10:26,13,54,Rumput,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,dciK29fim2qDPd76l4GY,2026-01-22 13:10:26,14,52,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,mMvKg7yqqdKmy03NE1SO,2026-01-23 13:10:26,14,53,Rumput,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,GBWFDU0msHRwwA2SXoKy,2026-01-24 13:10:26,15,60,Rumput,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,EmijumAG4KVijesf85KT,2026-01-25 13:10:26,17,51,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,L8TyQAIRFHo8jW83kpcg,2026-01-26 13:10:26,13,50,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,Qd0f2qCUTyGsaQtTvGMM,2026-01-27 13:10:26,14,51,Rumput,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,VS6q9qoDorRmGCc5kXyI,2026-01-28 13:10:26,14,56,Campuran,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,bl1lFOcd5rNgkTP7es8c,2026-01-29 13:10:26,12,54,Rumput,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,bXeOoVYdPTB0ghenxnwM,2026-01-30 13:10:26,14,51,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,hNrnR5qHonF8Cl3SbU2k,2026-01-31 13:10:26,16,52,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,CfOhKLeNaLATGob9UmM0,2026-02-01 13:10:26,15,51,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,c6grvBvqzGGlGJFhSks0,2026-02-02 13:10:26,12,57,Rumput,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,6n69glUT9SmqOK1nxxhT,2026-02-03 13:10:26,13,59,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,oJZLwlcR5Sk9viRdGPSO,2026-02-04 13:10:26,12,55,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,8MnadKmR6wRm3fdZ7KiF,2026-02-05 13:10:26,16,51,Campuran,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,P6jIgvD5Z3VUnxKD31HF,2026-02-06 13:10:26,9,54,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,HJMhEcqH4OiS9uctfjTz,2026-02-07 13:10:26,13,56,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,LNfz9E6BfMBPiC3BSujG,2026-02-08 13:10:26,13,60,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,KUOCQpIh87JxzKtPNHZb,2026-02-09 13:10:26,11,54,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,pbis9CAU731VrlI3E5cz,2026-02-10 13:10:26,15,53,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,VefDPOVG3R9H34ipxZOs,2026-02-11 13:10:26,12,59,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,OkLEABERVBEYtCFCOOAN,2026-02-12 13:10:26,15,60,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,gpyM9mBVtZriz2ffFwAt,2026-02-13 13:10:26,15,51,Rumput,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,r92we8LUs0PY6NyL621w,2026-02-14 13:10:26,16,58,Rumput,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,kAmv9K2DlfjPw9XMAhGD,2026-02-15 13:10:26,15,54,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,cxHunF0eany4LwBjPaaE,2026-02-16 13:10:26,11,52,Campuran,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,1naCSWf94tQqjk20ycge,2026-02-17 13:10:26,12,55,Rumput,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,KmnLLtIwYKbVUgJ1NA4S,2026-02-18 13:10:26,11,59,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,AGmNORPKgt9RlPbTS9JE,2026-02-19 13:10:26,12,57,Campuran,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,LPFRq5Eugb3I0KCjhEiz,2026-02-20 13:10:26,10,50,Rumput,Sehat,Budi,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,2lv6E4PZPhnTHKgz8Qll,2026-02-21 13:10:26,11,52,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,F2zFBr1P1LNKgiQLyFS1,2026-02-22 13:10:26,16,60,Campuran,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,wtmCGzCzNU86A7E2tOV2,2026-02-23 13:10:26,14,55,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,RSbnp07mQi6MDX96GXh5,2026-02-24 13:10:26,12,60,Campuran,Sehat,Sri Raharja,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,6pKPOIzE4dJgpRAvtsTJ,2026-02-25 13:10:26,15,57,Campuran,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,hQuSlSzHEv5KGeI5NLmS,2026-02-26 13:10:26,16,58,Rumput,Sehat,Joko,Laktasi
+7n8fQ5gGScgpqrKtKyXm,IMPORT,Perah jenis FH,2025-11-27 03:55:45,vvdfwDVvBLsDpS5pU4s2,2026-02-27 13:10:26,13,57,Campuran,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,scFH4bupP8AcwHZsgntG,2025-11-27 09:06:47,10,54,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,OmG6FL3s3RIFLF6aB439,2025-11-27 09:07:44,18,52,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,45a2Z6fcqf1bWzV5F5Ic,2025-11-28 08:38:46,14,56,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,JjL2jWGTuiQz2q5pWYP8,2025-11-29 12:05:24,16,53,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,2bKKZkZQlmxYWZ0IWX3t,2025-11-30 10:27:36,16,53,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,oAd7qLxKy66T9fpPEqx8,2025-12-01 16:35:49,16,52,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,CCRIDRygEJ9TKWU6sGLu,2025-12-02 16:36:59,16,52,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,nwZHMHVFt2gW8K2eg0FT,2025-12-02 18:50:48,15,52,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,eNORdDW35Fkchi55ES2G,2025-12-04 16:37:48,16,52,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,AOBG4jQmQSiLCnWz0Zi5,2025-12-05 16:38:35,15,52,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,BYBaEF58BDd1HUCIvbPM,2025-12-06 16:39:09,16,52,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,n8HxKSrssMhVEcwICQmT,2025-12-07 08:05:01,16,52,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,DmL7b7BDfcpKWTkVKXsp,2025-12-28 13:11:21,15,52,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,kMbp2i49KRDgkIrjIJWK,2025-12-29 13:11:21,13,59,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,pXBQO2CwFmLQhHR0twrx,2025-12-30 13:11:21,13,57,Campuran,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,Pbt3Dl8l1VS9x9RfH4R0,2025-12-31 13:11:21,13,52,Rumput,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,uo2L7lagGaVYNnHCTJpX,2026-01-01 13:11:21,13,60,Rumput,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,Y9mz4kmvHP79J0SbEPTi,2026-01-02 13:11:21,14,50,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,ijgi1raoWKDfLALiZl9D,2026-01-03 13:11:21,11,53,Campuran,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,CzDye70n3CW50nZv122u,2026-01-04 13:11:21,16,57,Campuran,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,iVuQ2LESLEI2TBLZkAcf,2026-01-05 13:11:21,16,59,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,ZmErAeFIZaWBqFTOGdNf,2026-01-06 13:11:21,15,52,Rumput,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,9KsQMRdnocHTZwx0PkDA,2026-01-07 13:11:21,10,53,Campuran,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,YWJwNAtJiA5IcQVeuUpY,2026-01-08 13:11:21,12,55,Campuran,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,YsG5GqSda2CJVCgt68j1,2026-01-09 13:11:21,10,55,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,If9PV56VnqmWdwl6trGZ,2026-01-10 13:11:21,12,57,Rumput,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,qDeouLOYylNwLCABmsJc,2026-01-11 13:11:21,16,53,Campuran,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,fhzmH8rU0G3jlUKJ5ZhD,2026-01-12 13:11:21,9,55,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,p4gXm9th1HNenrVU0KvJ,2026-01-13 13:11:21,15,51,Campuran,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,tnirMRcyu1ZbMDG8ayWV,2026-01-14 13:11:21,14,51,Campuran,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,bToBnsWcKgOpcSvgF9X3,2026-01-15 13:11:21,9,55,Rumput,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,vvxBu0dIGa78shtqcAHF,2026-01-16 13:11:21,15,53,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,VUNJ37nyQ32vjrxl2c5V,2026-01-17 13:11:21,13,60,Rumput,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,fwURfHIq8G8lZ2i1TDDS,2026-01-18 13:11:21,11,52,Rumput,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,3TfdsHgv7EvLNe73k63n,2026-01-19 13:11:21,16,59,Rumput,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,I1pSLW0mXrf6oq2ONUtn,2026-01-20 13:11:21,12,56,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,DtBGcPOktXQkZmPCxqC7,2026-01-21 13:11:21,16,53,Campuran,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,pdwJkRoAqsbjbq1r816F,2026-01-22 13:11:21,13,52,Campuran,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,9HnmNqaGhqclM7q2Gkv8,2026-01-23 13:11:21,15,56,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,iIzLKV1e2F0kk5xhTtjd,2026-01-24 13:11:21,12,60,Campuran,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,8xUgZ2ZtVgnCP6n6VSTA,2026-01-25 13:11:21,9,55,Rumput,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,82JloZvmRKKhbySWxuls,2026-01-26 13:11:21,11,54,Rumput,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,7c1OwfCIOSIYe5JRCUG8,2026-01-27 13:11:21,14,50,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,XWknhv8CkchHFwD8D9AF,2026-01-28 13:11:21,13,58,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,zCcvzoj1Z2ZYFTmYkQ6y,2026-01-29 13:11:21,16,54,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,9QhguUBVJJFImtpRQmQl,2026-01-30 13:11:21,9,59,Campuran,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,uMdCve1Bp9yTDawehA6H,2026-01-31 13:11:21,16,53,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,ECMrUK7U1ZZLiLUKSrMy,2026-02-01 13:11:21,12,58,Rumput,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,1kwp5vWmwzcCGiLTesCg,2026-02-02 13:11:21,12,50,Rumput,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,dHn9KARvjYoCL0EKFLOh,2026-02-03 13:11:21,12,54,Rumput,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,zoLbsuW5TqcYdTUNQUdB,2026-02-04 13:11:21,15,58,Rumput,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,O5HAVGUAImLUWdYCK1kw,2026-02-05 13:11:21,16,59,Rumput,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,Fl9XCqF7Jg0OT0vtHhZC,2026-02-06 13:11:21,13,59,Rumput,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,FW5Gx1JTKoBT7uhn4x5M,2026-02-07 13:11:21,10,57,Rumput,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,79wy12al7QZZcU9FBXIs,2026-02-08 13:11:21,15,58,Campuran,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,oioZz3Gsc7lfsoMzh8xk,2026-02-09 13:11:21,16,56,Rumput,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,ezoJraus97FI1drpf70m,2026-02-10 13:11:21,12,59,Rumput,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,515TT9g6sShOxjdWloM4,2026-02-11 13:11:21,14,53,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,RcfhzyNtBNaJgYp0BevC,2026-02-12 13:11:21,16,51,Campuran,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,RHgbphB16kfIKj2wbCh6,2026-02-13 13:11:21,14,55,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,dh4VrC2UPuAUliJSpilb,2026-02-14 13:11:21,17,51,Campuran,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,3wL2XjYq4kqWHwLkui2M,2026-02-15 13:11:21,10,51,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,kUcukNIWiPANoJsbe24I,2026-02-16 13:11:21,12,51,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,pE2FLi4XH3mKPQijWEwF,2026-02-17 13:11:21,17,51,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,D4BCIzkzMcPK09W1i0bo,2026-02-18 13:11:21,11,50,Rumput,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,79gAzArAuF7xYypzUeUk,2026-02-19 13:11:21,12,52,Rumput,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,6b5g85XcFM06c44gNcT5,2026-02-20 13:11:21,18,51,Campuran,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,gPNyE8krawiQD9IJytzw,2026-02-21 13:11:21,16,59,Rumput,Sehat,Joko,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,3ItYJXRzXe3zf20tKduh,2026-02-22 13:11:21,14,56,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,rvtmEPVe2gH444YKSi7O,2026-02-23 13:11:21,11,54,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,cfWKtO1QTZVZCXeTc0jM,2026-02-24 13:11:21,13,58,Campuran,Sehat,Sri Raharja,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,gBGyJHVwX176dswQGduk,2026-02-25 13:11:21,11,57,Campuran,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,6jXw9jq56iEFPuoZn8EN,2026-02-26 13:11:21,13,50,Rumput,Sehat,Budi,Laktasi
+HN8W58KP2joFrcTodMxj,DARA NARTIM,Perah perabakan FH,2025-11-27 09:06:37,eRLxLyVelWUj1qEVsHZ3,2026-02-27 13:11:21,11,52,Rumput,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,Yt423imiT8eRqOWQuMCh,2025-11-27 03:54:24,20,50,Konsentrat,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,5bKf5OCST5A4EzbslLF8,2025-11-28 08:40:32,13,51,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,mYMFhjOy1mwtF0i2jb6q,2025-11-29 12:06:14,14,53,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,HAeAwczXLg8BukFibsOG,2025-11-30 10:28:28,12,53,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,4c2AdRrS5A4VIpZAPr7S,2025-12-01 10:39:17,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,cLDqQ9JoNIHnKGKTtEAC,2025-12-02 16:41:42,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,K08tOeYTn0lQGnWB30yO,2025-12-02 18:51:04,15,53,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,UsKxXn4xw63UIVayt9mR,2025-12-04 16:49:21,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,jtLzlr1n3pUlqH33R9zO,2025-12-04 17:04:33,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,WWrpawXVFFHke1cP47d7,2025-12-05 17:05:28,13,52,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,OOIH4bnvrknO8WM6fWif,2025-12-07 08:06:12,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,rlzp0PgfLg0xfeox7V9U,2025-12-28 13:12:17,15,52,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,KeoeKA0CHu0HFa8mzTkA,2025-12-29 13:12:17,13,53,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,c3KkB77Ol5pYMVtY2JJL,2025-12-30 13:12:17,15,57,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,6gDuBLjOr01OFFJBMwcf,2025-12-31 13:12:17,15,52,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,oGVwVJkXci972jXR5wli,2026-01-01 13:12:17,15,53,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,vSMAVlM8TNwHyIWcODOx,2026-01-02 13:12:17,12,53,Rumput,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,dKXcNXebXiRH3hoLTvLH,2026-01-03 13:12:17,17,58,Rumput,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,OeZ4dXyr19VFHepldKXc,2026-01-04 13:12:17,11,50,Campuran,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,pEOsEVULdTw8D9J96ALj,2026-01-05 13:12:17,17,57,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,vez4YuPiV1jqaxh6pbjI,2026-01-06 13:12:17,14,59,Campuran,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,cVulu1ShwpZQRC9lGVrU,2026-01-07 13:12:17,13,57,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,YObTLU971Ku2eYcRGnJO,2026-01-08 13:12:17,13,55,Campuran,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,YUxzMfQNfuucAeCB05L7,2026-01-09 13:12:17,13,52,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,jaShBU9fx4XWDJO8V0NL,2026-01-10 13:12:17,13,57,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,uNXgXUXy7JZezplgqQzo,2026-01-11 13:12:17,13,56,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,4Hcfz3iEvFb4ieytaT8g,2026-01-12 13:12:17,13,55,Rumput,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,zFYXfaIgXSh4FCv8zGNz,2026-01-13 13:12:17,13,55,Campuran,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,9ZfrCUHGo4URxXb1CCOG,2026-01-14 13:12:17,15,53,Rumput,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,IJVMXtRBuuQTQtospSgR,2026-01-15 13:12:17,11,60,Rumput,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,QiCBVatzZ5tRtnJuxaog,2026-01-16 13:12:17,14,55,Campuran,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,96AiMACN1nadxL2wN5nQ,2026-01-17 13:12:17,14,57,Campuran,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,Km9m7xp7EenJdRZ3bNdY,2026-01-18 13:12:17,17,53,Rumput,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,SPAbRNBP1Rhq8IHnsRt7,2026-01-19 13:12:17,13,50,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,MlXsEh40DtO2m8iZPAmX,2026-01-20 13:12:17,9,58,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,t8i1zESyk0FhwCkJAWPy,2026-01-21 13:12:17,12,54,Campuran,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,j8IMmr1RNeRLwRq9GvdN,2026-01-22 13:12:17,14,56,Rumput,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,Ud0p5GFswWJHbndJcVF0,2026-01-23 13:12:17,17,56,Campuran,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,M9v8tnDwSGwJx2HqoDax,2026-01-24 13:12:17,15,52,Campuran,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,rQwCFMKb5bjx2n4cUl4b,2026-01-25 13:12:17,11,60,Rumput,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,NkvOXB0RdwA0iASUGuYc,2026-01-26 13:12:17,15,53,Rumput,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,kqyLZVyaJyuhBSeaLCLr,2026-01-27 13:12:17,11,50,Campuran,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,2KU95TR0hNoiB9R02w4Z,2026-01-28 13:12:17,15,59,Campuran,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,HVck4DGirVk9AM0Khtnc,2026-01-29 13:12:17,15,54,Rumput,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,fv7VIDt5Z2Wb6FY2Dz75,2026-01-30 13:12:17,10,58,Campuran,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,Qae8xpKY77BVifDlJYRd,2026-01-31 13:12:17,9,50,Campuran,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,ANeQGMMuBXBLlIFoYurW,2026-02-01 13:12:17,15,57,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,qmOS5GNlSPQ8NDPNISic,2026-02-02 13:12:17,19,58,Rumput,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,l0BXMKZofDnR2h1k0hSf,2026-02-03 13:12:17,14,55,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,SQgtcutx9cLdZBDWg3hZ,2026-02-04 13:12:17,15,58,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,V8z2Am69XIJDfyqHS8zj,2026-02-05 13:12:17,15,53,Campuran,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,Pbz2j9FR3f0WHaHs4UBt,2026-02-06 13:12:17,15,57,Campuran,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,LxtOADnvhRlZcdnVa6hR,2026-02-07 13:12:17,10,60,Rumput,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,B1wtva8N1s8RTZn3Y34p,2026-02-08 13:12:17,13,50,Rumput,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,4mCKULvq4xQLo9cOindc,2026-02-09 13:12:17,15,50,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,i8b7tJOt4HsdB9nAfctg,2026-02-10 13:12:17,16,53,Rumput,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,cOFYJcUTdTx5miomYWcE,2026-02-11 13:12:17,11,55,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,AE92QH0XBnU6Q2fZFJNy,2026-02-12 13:12:17,14,58,Rumput,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,1zUSjffz6sGGIvFBtk50,2026-02-13 13:12:17,11,58,Campuran,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,fMFlBmukVeh0xKEcQlHE,2026-02-14 13:12:17,12,51,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,ngNenCWPjO8ZF98f83rI,2026-02-15 13:12:17,12,51,Campuran,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,9UVToNG2NH4n7CEOxn9U,2026-02-16 13:12:17,13,55,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,cgxgthJzYhxKCj4Ost46,2026-02-17 13:12:17,15,53,Campuran,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,3B2kLoKRmvjHwq3Ph8Ad,2026-02-18 13:12:17,15,53,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,Bt2HPEaKOhb70LmgNeze,2026-02-19 13:12:17,16,52,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,ZVN9V3svoIgOQF2ASL9m,2026-02-20 13:12:17,13,53,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,4jPLxBMI6FysjZ1plJkl,2026-02-21 13:12:17,11,51,Rumput,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,5HasghIO7Lh3tbOR8Nq6,2026-02-22 13:12:17,12,51,Campuran,Sehat,Sri Raharja,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,d6kk2C372HDu6FOKLQmj,2026-02-23 13:12:17,14,60,Rumput,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,Anyf41qRS6xqJco0VNHb,2026-02-24 13:12:17,16,50,Rumput,Sehat,Budi,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,6kHXltyB6kzVNjpcZB5h,2026-02-25 13:12:17,13,52,Rumput,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,QMnlyAqgHFoZ0vGI79I0,2026-02-26 13:12:17,16,56,Rumput,Sehat,Joko,Laktasi
+W1jP9TEBPttBpvPPdNOq,DARA SULIS,Perah jenis FH,2025-11-27 03:54:05,uQlVdMqJp2ZCuUKAZU1u,2026-02-27 13:12:17,11,59,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,OUXGykoxalbJCYQIrntj,2025-11-27 03:52:29,0,55,Campuran,Sehat,Sri Raharja,Hamil
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,f7pOv0OIJtpCRlWPoI6s,2025-11-28 08:43:35,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,eUf6fFewMZFVUs8KGT6j,2025-11-29 12:07:37,11,52,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,tVtpPxV3r2FRpcSUGXF4,2025-11-30 10:29:17,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,ILZBmkpV6ySjdchAxIpO,2025-12-01 10:16:56,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,lHBG683NB27BucDOraXB,2025-12-02 10:17:45,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,HNUZzQjDVsq7KHq81FTx,2025-12-02 18:52:19,11,52,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,DvayQqLI53N6JKjk1m4Z,2025-12-04 10:19:09,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,PkLRDlXHQKQfLcav4plj,2025-12-05 10:19:44,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,AbJEBuQJlx21O6qujTAS,2025-12-06 10:20:57,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,BHB7E7icV4YqkKCHFF0K,2025-12-07 10:21:27,10,52,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,BBFHpeYjePc5oGpWbsOI,2025-12-28 13:13:41,9,52,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,VRXl1g9U6O77YZUdwDms,2025-12-29 13:13:41,13,55,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,JoVLcdt6rlIrHjM5dlKA,2025-12-30 13:13:41,10,52,Campuran,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,Pt6QN6AyRZ2mC7IiFmk9,2025-12-31 13:13:41,16,57,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,z6EwKOb8uwzon353el5f,2026-01-01 13:13:41,15,56,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,5X3ubeDYv0pE7Wx7OLRo,2026-01-02 13:13:41,13,50,Rumput,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,46XYuzT3WWKVPH8cIJxB,2026-01-03 13:13:41,18,52,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,1tVUnIKWiy2DZTiVIMvP,2026-01-04 13:13:41,15,60,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,Fv6lTx4k8LnaULJLMlAU,2026-01-05 13:13:41,17,53,Rumput,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,trqChhalE1sUbaKj91n1,2026-01-06 13:13:41,11,50,Rumput,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,kOdlVJhjyGQdqtDZoYUj,2026-01-07 13:13:41,14,60,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,Zs23YmkbmlodH1bgW90g,2026-01-08 13:13:41,11,56,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,PMU7UyurjQtHY5MNU9qQ,2026-01-09 13:13:41,15,57,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,iJB9Gg4cKugCPwEKG6Qv,2026-01-10 13:13:41,14,53,Campuran,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,e0z7tJecMPh5yNM1jLkj,2026-01-11 13:13:41,12,59,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,vWAu7T1IMYMzqCHepAMQ,2026-01-12 13:13:41,11,52,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,tqbfx2ifxUugmTOkMFcG,2026-01-13 13:13:41,15,60,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,1RyahMnxwPrVg6QxRwx8,2026-01-14 13:13:41,13,53,Rumput,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,YFpIIKwGGtEkgTHaSDOT,2026-01-15 13:13:41,16,50,Campuran,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,pR7QuOyhL5rceKNSQjWW,2026-01-16 13:13:41,13,55,Campuran,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,YMxpanYXvoPrhT1ZbVEY,2026-01-17 13:13:41,12,54,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,Y7UJzyD4Cow3Z6ZTjhq2,2026-01-18 13:13:41,14,51,Campuran,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,M7eBUfXzJQaavxxteQk9,2026-01-19 13:13:41,12,55,Campuran,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,9aBzIePJRmCWe7TcxWeu,2026-01-20 13:13:41,13,59,Rumput,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,9Mo1zwVUTot8CKJwuNMV,2026-01-21 13:13:41,12,50,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,Dy21MqfEgMDNwqG1QpiJ,2026-01-22 13:13:41,12,57,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,7JMCTdnjvFX3TDBNfnSR,2026-01-23 13:13:41,15,57,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,lLsXfPcbA5PY4AHrzsk2,2026-01-24 13:13:41,15,54,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,4F4YKQ1nkem7A5ZzbMGV,2026-01-25 13:13:41,17,58,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,lFaYPUUcCL6dB8yHnrja,2026-01-26 13:13:41,11,58,Rumput,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,MM7gpHlX5QGHmWkL5I7e,2026-01-27 13:13:41,13,50,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,VlRUfhWoT2ohFmtOp7bc,2026-01-28 13:13:41,15,51,Rumput,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,4daFMtswh2q2BvAzsqxR,2026-01-29 13:13:41,12,58,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,7cIk01OauEPC6RQ32dTy,2026-01-30 13:13:41,11,50,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,IeZvOI6sTp7ol56aesuI,2026-01-31 13:13:41,10,51,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,67fArCuWqW9TXIQkrNm9,2026-02-01 13:13:41,16,58,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,thNc7Zu7yK8CHkTYVXdW,2026-02-02 13:13:41,11,60,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,Pmo9Ne9yYZE71VAtRMKc,2026-02-03 13:13:41,12,52,Campuran,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,TfLXERS63SKUjMIkXJUD,2026-02-04 13:13:41,16,60,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,ZHDrTh9quqsecjKh53Mr,2026-02-05 13:13:41,13,59,Rumput,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,cPpDwwNeuJvFHrojFLaQ,2026-02-06 13:13:41,14,57,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,hxvcRrpg6IXfU3AAsLio,2026-02-07 13:13:41,12,52,Rumput,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,9upHpv6kcF59BJ3t85R2,2026-02-08 13:13:41,14,59,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,uGIZRwGyv8yTtEQdNas2,2026-02-09 13:13:41,17,52,Rumput,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,y2gBDUuQxkLWDpZOqlgt,2026-02-10 13:13:41,13,50,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,7X34b67ywfkbUc6tqU0U,2026-02-11 13:13:41,14,50,Rumput,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,H5z2NyXQNSuCskWYExFj,2026-02-12 13:13:41,15,55,Campuran,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,6wgKTOsqTuBrEIWlnccB,2026-02-13 13:13:41,14,58,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,YhTI4bQW1EFUyJUkqtCc,2026-02-14 13:13:41,14,51,Campuran,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,5mxsd8ZoqhktN07ybghv,2026-02-15 13:13:41,10,55,Campuran,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,34tnbepMaPpsPtGoSuhk,2026-02-16 13:13:41,10,51,Rumput,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,3rw9W8hMUDXO8VT6wf76,2026-02-17 13:13:41,12,50,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,pDVe5Y6CyJ8icfoAU9eh,2026-02-18 13:13:41,12,52,Campuran,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,14prn4gtK5asZtXCQ5C3,2026-02-19 13:13:41,9,56,Rumput,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,aGRiJfcF5iUT3oQYkdC6,2026-02-20 13:13:41,15,55,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,zVihp6jFfcbYwPoHks6W,2026-02-21 13:13:41,17,60,Campuran,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,jM0vl7fzdUtqSw6YQ0yZ,2026-02-22 13:13:41,14,54,Rumput,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,IuAYvjLdsbPKH4yJA34I,2026-02-23 13:13:41,17,52,Rumput,Sehat,Joko,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,mU58vQza1jBYQE0wyFUy,2026-02-24 13:13:41,11,57,Rumput,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,Lbd3RFWqyXi79i4wzYR4,2026-02-25 13:13:41,13,56,Rumput,Sehat,Sri Raharja,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,RA9wXaz0fvYSKM9Tn9yr,2026-02-26 13:13:41,15,57,Campuran,Sehat,Budi,Laktasi
+WNOAGeysX3qgc1Sdx8CA,Bibit SULIS,Perah jenis FH,2025-11-27 03:52:10,eurNrtgBcwi2DCebVSWt,2026-02-27 13:13:41,14,50,Rumput,Sehat,Joko,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,fN7DBhz8SuLZfZX57NAI,2025-11-27 09:10:51,4,50,Campuran,Sehat,Sri Raharja,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,PhoOLmK34lTtd7aUFini,2025-11-28 08:45:06,4,52,Campuran,Sehat,Sri Raharja,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,l98nCLrZ6PYHVbJV6uSZ,2025-11-29 12:08:15,6,52,Campuran,Sehat,Sri Raharja,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,nqdPq5TPv8uNRmzMWcyg,2025-11-30 10:29:58,5,50,Campuran,Sehat,Sri Raharja,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,zMBQG0jDFc7eh8TkVaC4,2025-12-01 10:22:16,5,50,Campuran,Sehat,Sri Raharja,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,cnxNQGUTD3rqGBlgODNR,2025-12-02 10:22:59,5,52,Campuran,Sehat,Sri Raharja,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,lrVSa5YYb1AoK1THV4bW,2025-12-02 18:53:08,18,53,Campuran,Sehat,Sri Raharja,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,XFDvDDMZtlXeUOj2yTrf,2025-12-04 10:23:43,5,50,Campuran,Sehat,Sri Raharja,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,FLrkiD02QRrF9HtD0B9v,2025-12-05 10:24:15,5,52,Campuran,Sehat,Sri Raharja,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,rHTfYcDQQUfTSTMs8GE7,2025-12-06 10:24:44,5,52,Campuran,Sehat,Sri Raharja,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,BEaKVjwq6wriTZWAhbc3,2025-12-07 10:25:30,5,52,Campuran,Sehat,Sri Raharja,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,E2PwnmINs0MOtKdDEVkm,2025-12-28 13:14:37,0,52,Campuran,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,eGo3PIjSFsLwcgvKjZKi,2025-12-29 13:14:37,0,42,Rumput,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,OIfFG7xSifvtwpq8PZFc,2025-12-30 13:14:37,0,50,Rumput,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,4EwHBzqiu7UjXLYcrzqO,2025-12-31 13:14:37,0,43,Campuran,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,1iPfe39Z0hLHXprPUhLo,2026-01-01 13:14:37,0,42,Campuran,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,IQT3cyvZ9S5VTMHVha0h,2026-01-02 13:14:37,0,50,Campuran,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,YoAIgFM9EAp6DMeXie0H,2026-01-03 13:14:37,0,46,Rumput,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,KYRYlsYGChqvON91f6nt,2026-01-04 13:14:37,0,47,Campuran,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,uDUYb3egukNnHMW7j7Ti,2026-01-05 13:14:37,0,40,Campuran,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,y2jSACWWu91t60Tnq5SW,2026-01-06 13:14:37,0,49,Rumput,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,rf5MAoreGPEYjcA1sYpw,2026-01-07 13:14:37,0,45,Rumput,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,FWmjdueUh35CmtWq5k4r,2026-01-08 13:14:37,0,45,Campuran,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,ccNEMtV1BaH3lR73vflV,2026-01-09 13:14:37,0,49,Campuran,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,AigExZye0kXAB7cgy5RG,2026-01-10 13:14:37,0,48,Campuran,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,2okSqg3SZC6SfrNdA0Q8,2026-01-11 13:14:37,0,44,Campuran,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,sa072Q5O7ItfWRnoM4hs,2026-01-12 13:14:37,0,44,Rumput,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,mD76uOfWjTqfuuZhD72K,2026-01-13 13:14:37,0,48,Campuran,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,X5LksWDVQEuhh0emJqe7,2026-01-14 13:14:37,0,41,Rumput,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,xGf8nxIWFQ29QUmfhOe4,2026-01-15 13:14:37,0,40,Rumput,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,R0ylDWy18LEl720xchLV,2026-01-16 13:14:37,0,43,Campuran,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,wLcJDaidTYNcMoHXajmj,2026-01-17 13:14:37,0,48,Campuran,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,0slfSozQ2v8vHue4kL4n,2026-01-18 13:14:37,0,43,Campuran,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,ZNQMTLtbA7YNQmsFkVPY,2026-01-19 13:14:37,0,45,Campuran,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,D0i3YquMLRhGUd3OrPAV,2026-01-20 13:14:37,0,48,Campuran,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,UwK0sChHC8QTGA6lzvWH,2026-01-21 13:14:37,0,40,Rumput,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,9iWPubfXgvlZsphft44T,2026-01-22 13:14:37,0,44,Rumput,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,yVHS2q4DB32dXQdidkn1,2026-01-23 13:14:37,0,48,Campuran,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,J8FAsNFB3eOdGAqDLZuR,2026-01-24 13:14:37,0,48,Campuran,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,HVCXahNv3olYm7z3XHF5,2026-01-25 13:14:37,0,48,Rumput,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,kj7wCpUc4rahfLFYg115,2026-01-26 13:14:37,0,41,Campuran,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,LaSXGn4ekAk6BCjd7q9Q,2026-01-27 13:14:37,0,47,Campuran,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,mKlMjvFdubsorjzttZSP,2026-01-28 13:14:37,0,45,Rumput,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,qAaBYfrSExcce9j7wV6B,2026-01-29 13:14:37,0,50,Rumput,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,AVgnvG9TdAMVTExQZTcC,2026-01-30 13:14:37,0,46,Campuran,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,OSFRjLiI9ouf8HdC7fEt,2026-01-31 13:14:37,0,45,Campuran,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,kBBRqa6GhVEt5avUW7Yb,2026-02-01 13:14:37,0,48,Rumput,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,HZgAXW5BddcabSjmB7tt,2026-02-02 13:14:37,0,42,Campuran,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,u8WpvJdi4MYcnjXxlcne,2026-02-03 13:14:37,0,44,Campuran,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,H8DmVNtp1LAilJuHexOa,2026-02-04 13:14:37,0,50,Campuran,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,bmAUMHNIeup9rLKcZJ48,2026-02-05 13:14:37,0,50,Rumput,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,5Ug4fxACtyN87ARXvbnN,2026-02-06 13:14:37,0,45,Rumput,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,nP6AyfQ4BFHcrmmtfNnA,2026-02-07 13:14:37,0,45,Campuran,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,49GepD3zu9kDZkLsBt3v,2026-02-08 13:14:37,0,41,Rumput,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,P0jNYGdfEh31vDP2hYKK,2026-02-09 13:14:37,0,50,Rumput,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,EZ9QMpJl2HplY17ZXBXB,2026-02-10 13:14:37,0,47,Rumput,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,I7F0cg7mSLlLMECE3vTN,2026-02-11 13:14:37,0,45,Rumput,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,FKe55LYr24HjOoZ0avkA,2026-02-12 13:14:37,0,47,Rumput,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,vqeabrbFRCefd6Aq6LcL,2026-02-13 13:14:37,0,44,Campuran,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,KpPb2feN7EtoPzpkH3JC,2026-02-14 13:14:37,0,47,Campuran,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,Nwv37ZXKuMBiW4zDLmiZ,2026-02-15 13:14:37,0,41,Rumput,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,vTKzhBlx2fHcHM6PC9by,2026-02-16 13:14:37,0,43,Campuran,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,OT9XSJKeKgVtCQeLGlmh,2026-02-17 13:14:37,0,44,Rumput,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,tkljKYXA3xaTrnUKI4MH,2026-02-18 13:14:37,0,45,Rumput,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,Wqn3YJwa6fEUJz6EBSA9,2026-02-19 13:14:37,0,43,Campuran,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,qZD5EJqXevomo6K8hqaq,2026-02-20 13:14:37,0,47,Rumput,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,lREyDQZ0S2DWQrte8fWq,2026-02-21 13:14:37,0,40,Rumput,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,dTbHrd3tUi4u7bnPZqSa,2026-02-22 13:14:37,0,43,Rumput,Sehat,Joko,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,4SDlBZs9hcHJldcO2ajP,2026-02-23 13:14:37,0,49,Campuran,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,NCfQc6k0qqU096xJLPM7,2026-02-24 13:14:37,0,47,Rumput,Sehat,Budi,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,T7LM9bvq10u4JFvOGlmk,2026-02-25 13:14:37,0,43,Campuran,Sehat,Sri Raharja,Hamil
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,8Manl3qh4C4ndPuG3lfC,2026-02-26 13:14:37,14,59,Rumput,Sehat,Sri Raharja,Laktasi
+XwvGTnZzvO9kMv92NhaK,women Dirman,Perah peranakan FH,2022-11-27 05:00:11,FhoPpJMfjYs0af0UWft9,2026-02-27 13:14:37,14,54,Rumput,Sehat,Budi,Laktasi
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,fCWL6sUKCTZsWbjhqybn,2025-11-27 09:12:51,0,52,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,35B2hvyTLzLuojQAmRAM,2025-11-28 08:45:50,0,45,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,HvqlVzs7cMt0KGCVK4dO,2025-11-29 12:08:56,0,54,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,OWC2nqYe7P2ZiSk2odTZ,2025-11-30 10:30:37,0,52,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,G9ToZfAixnB9Jq1L8rKQ,2025-12-01 10:26:20,0,52,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,U49jfpm9zMKFoMd3B7gj,2025-12-02 10:26:52,0,52,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,ayLkK2gnCeoqo0pQtrdS,2025-12-02 18:53:45,0,52,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,Mfx9iEMRdv2vedPSooIE,2025-12-04 10:27:33,0,52,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,kw8TwJbMRRSbCUxGWO7v,2025-12-05 10:29:17,0,52,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,uCwsuw9SY3i5uG0iTzy3,2025-12-06 10:29:43,0,52,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,Wb935zwGxHfCnyjGe62J,2025-12-07 10:30:07,0,52,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,lZarFGyY5uTct3buoCtf,2025-12-28 13:15:34,0,52,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,Upc5bEvDBVWA6affZSPj,2025-12-29 13:15:34,0,49,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,OS8zlKuQynFEr9z8DHBx,2025-12-30 13:15:34,0,47,Campuran,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,8vTmaEig4qCqUJ6ob53w,2025-12-31 13:15:34,0,49,Campuran,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,rlCgQ5n3bt0GNZcPO6Lw,2026-01-01 13:15:34,0,44,Rumput,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,dDWPAaba0DkT7XyhtKOp,2026-01-02 13:15:34,0,43,Rumput,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,9rPj55DsGyixQpxlZLa8,2026-01-03 13:15:34,0,49,Rumput,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,SUPXYrXenshPAlGn9wzr,2026-01-04 13:15:34,0,50,Rumput,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,2haMzpXeCpOC0KJzX36v,2026-01-05 13:15:34,0,45,Campuran,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,cyV3i271WgiWREmKL1bx,2026-01-06 13:15:34,0,40,Rumput,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,2JuVXTYhjJeuWT6LWzK5,2026-01-07 13:15:34,0,50,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,ZTsseGuK4GDpdiwM86lN,2026-01-08 13:15:34,0,46,Rumput,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,P6B4jNvSnCXBneLbfz9j,2026-01-09 13:15:34,0,46,Rumput,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,vx0KWnFlMYx9UNY0hCdI,2026-01-10 13:15:34,0,44,Rumput,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,sWfZ1edErCjlADtoDs92,2026-01-11 13:15:34,0,47,Campuran,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,Izzu7shQvHEuMLIoli2C,2026-01-12 13:15:34,0,44,Campuran,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,1fFpRq9exVp8wtrULCwm,2026-01-13 13:15:34,0,49,Campuran,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,XnRdHeAmUbh6RwFJlVh7,2026-01-14 13:15:34,0,45,Campuran,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,oUsbKDnhhIT2RaS5ITlx,2026-01-15 13:15:34,0,40,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,qtMU2ZBsqlqq2Pat692W,2026-01-16 13:15:34,0,49,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,iS9tXulUYrwydHNfHyGq,2026-01-17 13:15:34,0,44,Rumput,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,FR2nOvvyihqVtv0VUsyZ,2026-01-18 13:15:34,0,49,Campuran,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,zO29pDGmjJSEbryDUAQ8,2026-01-19 13:15:34,0,44,Rumput,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,ueBUDNNTkQIAvogwMR2m,2026-01-20 13:15:34,0,41,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,hbVUCrJhUYJQL3aIP5q8,2026-01-21 13:15:34,0,48,Campuran,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,0Pw9l4YVuQNeK0dO8oNk,2026-01-22 13:15:34,0,46,Rumput,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,zmWqiRqSybsIjoh88bS7,2026-01-23 13:15:34,0,40,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,vlDE835UHoAfdVv3WjbE,2026-01-24 13:15:34,0,47,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,CVH0gJSpVB4qr24hcQzO,2026-01-25 13:15:34,0,47,Rumput,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,gC6DXEkAt5iuSMeElLlA,2026-01-26 13:15:34,0,50,Campuran,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,lvt8BImMGN6Vw2NlTCQr,2026-01-27 13:15:34,0,50,Rumput,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,s8Rya6DaokaYhOVQ80KI,2026-01-28 13:15:34,0,43,Campuran,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,fdONWOqp3Tau1o3NIWII,2026-01-29 13:15:34,0,48,Rumput,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,IvQc44yGCPFMHFH9MxYn,2026-01-30 13:15:34,0,49,Campuran,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,iOHVL4QCfxevj0B9tt1s,2026-01-31 13:15:34,0,48,Rumput,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,jNwWTxYmuON1Izc6tkm3,2026-02-01 13:15:34,0,47,Rumput,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,rzKyVJKKIZMgQVXduaov,2026-02-02 13:15:34,0,42,Campuran,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,f1ZIDUAztbXbXOeOyFoL,2026-02-03 13:15:34,0,45,Campuran,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,ZxcZt8Y57eSvxDsbdr6r,2026-02-04 13:15:34,0,49,Campuran,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,ZP4eEToA3MxZQWCUEdbl,2026-02-05 13:15:34,0,50,Rumput,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,dTk5eYIUFGIHkYYGf3Sg,2026-02-06 13:15:34,0,50,Campuran,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,NJaHFRaXlfA1XkYPKxPt,2026-02-07 13:15:34,0,50,Rumput,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,gUEu5MweArOhveln29ho,2026-02-08 13:15:34,0,50,Rumput,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,9jjf9BsoSvZr2kepPKdz,2026-02-09 13:15:34,0,47,Rumput,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,a7YBru2BdpAhTI7OiPOM,2026-02-10 13:15:34,0,42,Rumput,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,r3csyYCTV6EZuzWgFFJc,2026-02-11 13:15:34,0,46,Rumput,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,zBMfUOmJn72qwTxqUvhX,2026-02-12 13:15:34,0,50,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,2CQrD4fhd8MEf3UJc7uh,2026-02-13 13:15:34,0,49,Campuran,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,1U2JYb0SVyWidBzl5V7i,2026-02-14 13:15:34,0,42,Rumput,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,MEfMaNVtqPCSz8ZEgRJK,2026-02-15 13:15:34,0,46,Rumput,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,Ligp7tOy6XUSF5zKmRHA,2026-02-16 13:15:34,0,45,Rumput,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,IspEIyrf6Bc4WLUK400I,2026-02-17 13:15:34,0,47,Rumput,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,T8t3BEeXRd2TZnuYjzV0,2026-02-18 13:15:34,0,50,Campuran,Sehat,Joko,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,mjf20I90L5elKknlIymb,2026-02-19 13:15:34,0,44,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,CnzBaXXd3m5SEh31nECd,2026-02-20 13:15:34,0,45,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,2eUWWsx87U2fmjGU7M8L,2026-02-21 13:15:34,0,50,Campuran,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,QloQhccNflNB90Lrr9OQ,2026-02-22 13:15:34,0,47,Campuran,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,ehWbJ0lHCiTRtRN5k8tn,2026-02-23 13:15:34,0,46,Rumput,Sehat,Sri Raharja,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,y0SSWQFSYgfW8ukLZrup,2026-02-24 13:15:34,0,47,Campuran,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,7To2F3rhIIQ8vkLpTEhe,2026-02-25 13:15:34,0,42,Campuran,Sehat,Budi,Hamil
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,AczEcYQcBEEiJG8b4Y7C,2026-02-26 13:15:34,14,50,Rumput,Sehat,Sri Raharja,Laktasi
+Yqus20X4rw0hIUp6H33D,KIRWANI,Perah peranakan FH,2022-04-28 05:02:26,Z5SDRnMyvFGEju1K5fsA,2026-02-27 13:15:34,14,58,Rumput,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,hsOO5QXEJGIQ3ToI1xs8,2025-11-27 09:13:35,12,53,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,i8WTEj4sNNXCsla6Lu4C,2025-11-28 08:46:33,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,4wBy6dwljkTUWKuVz9RZ,2025-11-29 12:09:35,16,55,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,ntfZMkJxHpDqMmxzF0iG,2025-11-30 10:31:15,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,yU63l5Y2TgMiKJSTPpbX,2025-12-01 10:31:49,13,52,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,tosXtC9fnzD8rV3MQKHo,2025-12-02 10:32:55,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,tHSCEhoh6zPQRoilxuVM,2025-12-02 18:54:22,12,53,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,CtnFll8Zw66Q943lmdYj,2025-12-04 10:33:28,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,jXjgiuDSfTx9br3E40DX,2025-12-05 10:34:11,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,MT5Oc31QLSFxJTGTC0ii,2025-12-06 10:34:59,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,BuatcY4Sug2SiapqXbCI,2025-12-07 10:35:31,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,PzJaBsaRgw1gph0uSvEZ,2025-12-28 13:16:14,12,53,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,rpvfu17fqpL99kpshNCR,2025-12-29 13:16:14,13,50,Rumput,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,si6w4fm1aduCvnFrZ459,2025-12-30 13:16:14,12,55,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,28IKMRlzrdFX6ECra1fm,2025-12-31 13:16:14,13,58,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,dbXEhuG5qD3zqsKpWqM4,2026-01-01 13:16:14,17,54,Rumput,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,ClKuCq10dPEwUpZHCEty,2026-01-02 13:16:14,10,59,Rumput,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,6MkXWBP7poK0JOg1YtTJ,2026-01-03 13:16:14,12,53,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,w3hKbC8GO8S7G0JqUChq,2026-01-04 13:16:14,13,50,Rumput,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,OOyfA8lVWTDTA3JlSuwQ,2026-01-05 13:16:14,9,60,Rumput,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,XWquRk1NFAcwZELb59Dn,2026-01-06 13:16:14,16,59,Rumput,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,SEmUlBGKM9XN60kLBA0c,2026-01-07 13:16:14,9,55,Campuran,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,FzDzLDSpSbD7zCYnlLId,2026-01-08 13:16:14,15,51,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,b0uZDKr8fjsEAnaSsiPy,2026-01-09 13:16:14,14,58,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,01KH3BnLQ3mTm5BFYQo5,2026-01-10 13:16:14,14,50,Campuran,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,sC6CzLNeBa3ewRun0ha5,2026-01-11 13:16:14,12,55,Campuran,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,dRAXFsCpqcNbGmKbJ7Yh,2026-01-12 13:16:14,10,54,Rumput,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,pNAtKNp0ZvHIgGpRXycQ,2026-01-13 13:16:14,11,51,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,f7z6aryTP32dVDbdeJdq,2026-01-14 13:16:14,19,55,Campuran,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,LAzcGqO5xY8c9oGlLDtF,2026-01-15 13:16:14,12,53,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,i0WCVb8q6fif311UsjXu,2026-01-16 13:16:14,14,60,Rumput,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,ipXBZAU81mPPpcunuTze,2026-01-17 13:16:14,12,52,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,itajFuVvy1cNMQKphMQo,2026-01-18 13:16:14,14,56,Campuran,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,yCSkM1tHquiR4H1VDx5C,2026-01-19 13:16:14,15,58,Rumput,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,VAu9wM0jUoczjIuUFvGa,2026-01-20 13:16:14,20,53,Rumput,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,ina9RTDb9bDoe1LaPDTi,2026-01-21 13:16:14,14,57,Rumput,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,q0KTiEk3btVxM1VsZnYI,2026-01-22 13:16:14,13,57,Rumput,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,xCconXvOmsJ2TzdMeSBv,2026-01-23 13:16:14,14,54,Rumput,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,UGoaDUPKO00lY0W7kP9Z,2026-01-24 13:16:14,10,56,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,fT22zzCU4q26eDhIuagT,2026-01-25 13:16:14,11,54,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,pBWOrJBOtg5XAGDRfLpU,2026-01-26 13:16:14,16,53,Rumput,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,gaenw2kl0QhyjjvexXQi,2026-01-27 13:16:14,13,54,Rumput,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,xHbFoRw0G9m5M8ofeuFU,2026-01-28 13:16:14,13,54,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,LuZqycBFng0lFbaWCXik,2026-01-29 13:16:14,9,50,Rumput,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,HKYerLydMeMehzpIGX7m,2026-01-30 13:16:14,13,57,Rumput,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,mtbn9kJYODCaCoKELj0q,2026-01-31 13:16:14,16,54,Rumput,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,KsZQ9plFFKyXbxOmZE4B,2026-02-01 13:16:14,10,57,Campuran,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,Wjxv5KHHvRkGg7kL6ejK,2026-02-02 13:16:14,12,59,Rumput,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,9Aw5b6yaVRMLF1uIFFQd,2026-02-03 13:16:14,14,57,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,VwCXpRUWhnJJzqM8qZyF,2026-02-04 13:16:14,13,51,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,A88y4nWC5XLocQt2xj37,2026-02-05 13:16:14,18,57,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,K9Gw7HGKyrddcFth4FTK,2026-02-06 13:16:14,13,53,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,istExGlUGMUVM0QJoCtb,2026-02-07 13:16:14,14,59,Rumput,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,MkvwHTKkwMBzrAE8ahLO,2026-02-08 13:16:14,14,56,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,3zbb7VfSZV1n8UympfHw,2026-02-09 13:16:14,13,51,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,kZiN53OanEOSTlqXLFaG,2026-02-10 13:16:14,14,60,Campuran,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,oQaWB5pu8wWZE0OVWsHI,2026-02-11 13:16:14,13,60,Rumput,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,0yiKQCt2BIJI2kDXoIA5,2026-02-12 13:16:14,14,56,Rumput,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,aDGWkKrukcCPipLfuKQ2,2026-02-13 13:16:14,15,55,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,4yRRURgpEobAVaP31Mws,2026-02-14 13:16:14,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,QK9vrlpB8a8mxuss0ywT,2026-02-15 13:16:14,12,55,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,lkPrj5i2BfF0RM7xmi4p,2026-02-16 13:16:14,10,59,Campuran,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,JwOuPC8thhkVpSqpZz3A,2026-02-17 13:16:14,13,56,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,ntwjN17umKGceZy8vpVw,2026-02-18 13:16:14,16,50,Rumput,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,WaDaqreI2W2MZ4zsOrgV,2026-02-19 13:16:14,11,60,Rumput,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,36YreNIIB8bmqp2uVbPU,2026-02-20 13:16:14,13,50,Rumput,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,1lJMCkz5oSET10TcLwjd,2026-02-21 13:16:14,13,51,Campuran,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,Yf7uZDc3BAeH2n4zzWz4,2026-02-22 13:16:14,17,58,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,XU3jQFtX5BIGdICs5qCt,2026-02-23 13:16:14,13,58,Rumput,Sehat,Budi,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,VdRpnRaIV5KfUWvaZY9K,2026-02-24 13:16:14,14,55,Campuran,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,dd7SRlqSFqxp11vBwBrJ,2026-02-25 13:16:14,12,57,Rumput,Sehat,Joko,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,nRo9Pas0j4X1ACX5EKIu,2026-02-26 13:16:14,15,51,Campuran,Sehat,Sri Raharja,Laktasi
+Z0bXEflOSHeihIlJtSB5,bibit angel,sapi perah jenis FH,2023-08-15 04:08:54,Hj2Vd5U7AJHslx8aTif6,2026-02-27 13:16:14,13,59,Rumput,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,LZQXNnRbjOvUOOR6Dgph,2025-11-27 09:15:07,0,52,Campuran,Sehat,Sri Raharja,Hamil
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,2VlR95CIAEUgqSoxdypq,2025-11-28 08:47:26,0,52,Campuran,Sehat,Sri Raharja,Hamil
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,KHxZxbsOLQSf4Tijr9u9,2025-11-29 12:10:11,0,55,Campuran,Sehat,Sri Raharja,Hamil
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,pcmU53Qe3wsLoxdxJYkv,2025-11-30 10:32:28,0,52,Campuran,Sehat,Sri Raharja,Hamil
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,B5wmhd3uIOVp8e5LPM17,2025-12-01 10:37:05,0,52,Campuran,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,45RNRU0cyz3P08Jg69Ua,2025-12-02 10:38:47,0,52,Campuran,Sehat,Sri Raharja,Hamil
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,zl0N763BYJpeXeYu7owH,2025-12-02 18:54:54,0,52,Campuran,Sehat,Sri Raharja,Hamil
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,EDArnMuEhnMmqyQedCHe,2025-12-04 10:39:26,0,52,Campuran,Sehat,Sri Raharja,Hamil
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,8mCuluUPZdr8eU6sNFQq,2025-12-06 10:38:00,0,52,Campuran,Sehat,Sri Raharja,Hamil
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,xoCjTa5GVVGrlfniIBeA,2025-12-28 13:17:02,15,52,Campuran,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,Mqkhp1F6DnFHI7glm0Sr,2025-12-29 13:17:02,11,60,Rumput,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,m3GL1tYeQFrNvygCwWS4,2025-12-30 13:17:02,12,52,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,oKhl78ZKxYw0VP3PgdRW,2025-12-31 13:17:02,13,52,Campuran,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,PsYCYM9rRV3waA02dLZE,2026-01-01 13:17:02,15,53,Campuran,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,ceM7mOKjAwTYzWwQK9dc,2026-01-02 13:17:02,16,51,Rumput,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,LBFaeLMdcWzEHToADx24,2026-01-03 13:17:02,14,53,Campuran,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,XE5ROpqmaON1WrT5JAij,2026-01-04 13:17:02,14,52,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,aO1bvX1iaFPKVM8QSwLy,2026-01-05 13:17:02,18,54,Campuran,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,UfCzOvURCLU3qa20inJc,2026-01-06 13:17:02,13,54,Campuran,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,UFD0PrRIwRCclJreU8Tg,2026-01-07 13:17:02,14,56,Campuran,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,ndq3UcwRS0PSWacmrQfW,2026-01-08 13:17:02,14,52,Campuran,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,1hCR58SLjmrq9heislB8,2026-01-09 13:17:02,15,52,Rumput,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,EnhfTYx7m0VH3WPm6go8,2026-01-10 13:17:02,14,55,Campuran,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,3eAz0XD87MlrDu5YQgZQ,2026-01-11 13:17:02,13,60,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,NIzCdsPUIc4CT7qQij9C,2026-01-12 13:17:02,18,54,Campuran,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,ezKsBjfRXtmmlY36feXv,2026-01-13 13:17:02,16,55,Rumput,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,l6i869YPn1TNyCNx1Kxd,2026-01-14 13:17:02,10,60,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,6WpZswgkLJMgwRYWIwKA,2026-01-15 13:17:02,13,54,Rumput,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,cmJqHj0tLmaz57CUgZ6B,2026-01-16 13:17:02,11,55,Rumput,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,TNqAf7nhUu8JkHj7MPnJ,2026-01-17 13:17:02,12,60,Rumput,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,p6IES0e7GgTbYcUt9xnt,2026-01-18 13:17:02,12,52,Campuran,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,dJjngN9mpg4ebrUGS7R4,2026-01-19 13:17:02,11,56,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,La5KueZNWLZPf3HzJtgy,2026-01-20 13:17:02,12,52,Campuran,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,3VD8788fOfjWQ9czOjey,2026-01-21 13:17:02,14,56,Campuran,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,L9c4y3Xcr62d8NZjUSxk,2026-01-22 13:17:02,11,58,Campuran,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,rTdAE0DpIpIB1LlJiioi,2026-01-23 13:17:02,16,55,Rumput,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,gEgt6HJ5ErCAHeo5kgyd,2026-01-24 13:17:02,13,58,Campuran,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,V8L5En0fOuUvsB2UBBuq,2026-01-25 13:17:02,15,59,Campuran,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,FxE6jkXH2mv47Ly40GIE,2026-01-26 13:17:02,14,57,Campuran,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,tHEnnOGExYXPUAGRaukd,2026-01-27 13:17:02,14,50,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,oHFZKq3DI8yQjpr3O5jn,2026-01-28 13:17:02,12,51,Campuran,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,3XisZPOQr3kN2kUMcOE8,2026-01-29 13:17:02,15,58,Rumput,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,t0B1G90eZOa3dAYrjFwl,2026-01-30 13:17:02,14,59,Campuran,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,SxTaElMdVoNaUBE8D15K,2026-01-31 13:17:02,14,58,Rumput,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,Q3TQuwbioA833rEqI2tf,2026-02-01 13:17:02,13,51,Campuran,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,b31zUdnqkaCG1b5V4XSa,2026-02-02 13:17:02,14,56,Campuran,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,VVv7TDQr8DaAZuHPi6mW,2026-02-03 13:17:02,13,51,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,3n8qaTfHkSUiFMJBQ0WN,2026-02-04 13:17:02,11,55,Rumput,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,9bOMyHuxF3q824NZS0YL,2026-02-05 13:17:02,11,59,Rumput,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,4Q6dyc5mEXBKXdHDUCNS,2026-02-06 13:17:02,15,59,Campuran,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,XO3orWdC84ay47k8D0y4,2026-02-07 13:17:02,17,60,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,v3ZDzOHVjaYIfmuKDYox,2026-02-08 13:17:02,12,59,Rumput,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,pLk6Ya990sUsIO45quz4,2026-02-09 13:17:02,13,53,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,Z8i0hgmIOjwnnfgACaxy,2026-02-10 13:17:02,15,50,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,enrcXSU5oiTH9sPmPwZf,2026-02-11 13:17:02,13,59,Campuran,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,VtDQPcu69v08u8KNIsnG,2026-02-12 13:17:02,16,58,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,SrL2IVTV9qV4a5apDdqD,2026-02-13 13:17:02,12,59,Rumput,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,wcGCFpR2vFHNMQoOtEMs,2026-02-14 13:17:02,12,59,Campuran,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,K2BorH0i886vsh5817SM,2026-02-15 13:17:02,13,52,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,WjpxpiNm7a4fXl8C7yGr,2026-02-16 13:17:02,13,57,Campuran,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,gg6WjVRlJRevHINN3odi,2026-02-17 13:17:02,14,55,Campuran,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,Fmg41WnRhaYT3N3BBHPV,2026-02-18 13:17:02,14,50,Campuran,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,UGaCRjkruyMtwtdiG1C9,2026-02-19 13:17:02,9,56,Campuran,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,QAkDsm3V9bwiVSSAs0cF,2026-02-20 13:17:02,13,52,Rumput,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,m8rCHbe9roFR7PwWgeiV,2026-02-21 13:17:02,13,51,Campuran,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,y4UawCY6lKKeGZyuK7NP,2026-02-22 13:17:02,13,52,Campuran,Sehat,Budi,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,Y5aRfMvBvd468wK0QDim,2026-02-23 13:17:02,13,54,Rumput,Sehat,Sri Raharja,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,3jNBWPanTNqWv6F2evNN,2026-02-24 13:17:02,14,54,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,wXbu0WW6fvXTBz5yDZnj,2026-02-25 13:17:02,12,51,Rumput,Sehat,Joko,Laktasi
+ZMWut14HIZ7AS2kPnjme,Kirman,Perah peranakan FH,2023-06-29 04:54:50,hCAAexjQmFPyUb6iw1PT,2026-02-26 13:17:02,16,54,Campuran,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,9ZemazGNzsVzTvOKpOle,2025-11-22 11:33:10,0,10,Rumput,Sehat,Naufal Akbar,Hamil
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,tFM0CCCMMf7696Wkpo03,2025-11-27 04:10:43,14,53,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,oGwXsdksVwIJ1sMkvqkv,2025-11-27 09:16:06,14,53,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,1qBhna2Vr1nuRFWLRXDr,2025-11-28 08:48:02,0,49,Campuran,Sehat,Sri Raharja,Hamil
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,bYgt3TolKysOH009Oix0,2025-11-29 12:11:19,0,52,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,OBbeJfgwK23yfi0WFoka,2025-11-30 10:33:01,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,HP90SFjt5eWkHYcC0Hcp,2025-12-02 18:55:24,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,hqzBvLbSD0ZT8H4KNE5f,2025-12-28 13:17:49,10,52,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,iTvVekxaFVQ40J8pZJtU,2025-12-29 13:17:49,13,55,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,WDfSaeW1cs0wT0Hn6WfJ,2025-12-30 13:17:49,11,54,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,9A3mfPEDyyyEFUo3VPyF,2025-12-31 13:17:49,11,57,Rumput,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,rSXrciebHcQD8AFfNXOE,2026-01-01 13:17:49,16,50,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,0KIXm6ulLbtPTRQySNmU,2026-01-02 13:17:49,10,54,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,GkfhY3AuqW2IvfDydqJt,2026-01-03 13:17:49,12,52,Rumput,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,ADZxjtJT2yBwGjZ8pqKU,2026-01-04 13:17:49,12,59,Rumput,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,SyaP92RlMtqzHqTra7T9,2026-01-05 13:17:49,13,54,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,MoY8NQ2EJT8zrRuh1bAp,2026-01-06 13:17:49,14,55,Campuran,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,qfSjdc0yhaFXUZjegBpX,2026-01-07 13:17:49,14,51,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,gy6ukSy4oWJppU5UtMuv,2026-01-08 13:17:49,11,54,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,C7dmHchnLJ9o7za8Qg65,2026-01-09 13:17:49,14,59,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,qdfRdHQma7k83XMw0qBg,2026-01-10 13:17:49,11,60,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,rhMYqhbbzQzOqowH0QmM,2026-01-11 13:17:49,15,58,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,HZCgTY9pP3t2TnnneCt2,2026-01-12 13:17:49,14,53,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,5B9GXsOvgrd8ny9wlB91,2026-01-13 13:17:49,16,56,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,UKcE7YSbgobRoK1FdaQW,2026-01-14 13:17:49,12,54,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,RBAxJ30UycpGkJwX6lh1,2026-01-15 13:17:49,10,52,Rumput,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,9ow7b150YSshiHYXObLp,2026-01-16 13:17:49,18,60,Campuran,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,CtodQWujs5OYigDga1Db,2026-01-17 13:17:49,15,55,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,ncF9wPuqBfISSFWT7RcZ,2026-01-18 13:17:49,14,59,Campuran,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,F53qpbaDUTvDWewly4BJ,2026-01-19 13:17:49,15,54,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,6a29Pvf0SYvvT7zH3tST,2026-01-20 13:17:49,12,51,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,GIos6YcReXzAu2silwHy,2026-01-21 13:17:49,15,51,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,3nZw8tntcIIyrmWC4ijG,2026-01-22 13:17:49,18,53,Campuran,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,vSBlG0qFWMUsPwNrsSfL,2026-01-23 13:17:49,17,59,Campuran,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,7eSbB6INslaWvVBA5Wk7,2026-01-24 13:17:49,13,52,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,Q7ESnQH52Pdf26qnkrwW,2026-01-25 13:17:49,9,51,Rumput,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,B2Ln4CqeYpfMsBMRLIqS,2026-01-26 13:17:49,13,52,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,VMwsIxPv3lHwxq149iX5,2026-01-27 13:17:49,11,58,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,mOfTevE9KF03aEbvyAef,2026-01-28 13:17:49,13,55,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,OJ4pNh1bnOCigbpT7q7z,2026-01-29 13:17:49,12,58,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,WvA56j5Xo6kJZJslS46Z,2026-01-30 13:17:49,11,57,Campuran,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,XdGYY7Hl6rdhtPIk5knO,2026-01-31 13:17:49,14,53,Rumput,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,0INRPMwPlqL7tJNTUYKM,2026-02-01 13:17:49,14,52,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,n97KpaMvigIBVMcZ0E9e,2026-02-02 13:17:49,15,60,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,mGwn9vRCwep4U7t746gp,2026-02-03 13:17:49,12,56,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,9xeoJJcfVhmWSwTuUCqD,2026-02-04 13:17:49,12,60,Campuran,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,uTFmpe8twc45yNmCAsKS,2026-02-05 13:17:49,15,50,Rumput,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,UynHASfbVpz14NRohI1f,2026-02-06 13:17:49,13,60,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,i5P1XEkY7lfyEeN2Rl03,2026-02-07 13:17:49,14,51,Rumput,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,YKiEJEwqb6bXfzglInEF,2026-02-08 13:17:49,16,55,Rumput,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,xT4sxq8LW711rYijliv9,2026-02-09 13:17:49,13,50,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,cPr5Jz5vauz1j0hsKhG1,2026-02-10 13:17:49,8,52,Rumput,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,HsiAcdVuOW0FYtrv3Lo6,2026-02-11 13:17:49,14,50,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,S0jg1R2JCuFlEew94QQU,2026-02-12 13:17:49,14,58,Rumput,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,imjuqGlhiBoIzexMVAlN,2026-02-13 13:17:49,14,52,Rumput,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,c6GKDUm90Fs0CsJ1EVJK,2026-02-14 13:17:49,13,50,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,Twmb9OrdXdZXAXUGvcz1,2026-02-15 13:17:49,12,55,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,OxShXszAzUSJwL4rSMjx,2026-02-16 13:17:49,14,54,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,ngnLjRxyujB9zqGd5p3r,2026-02-17 13:17:49,12,58,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,5cSMSA565JyJlrmt2I2n,2026-02-18 13:17:49,13,57,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,PmY9V8hUyl9wrEBBhePW,2026-02-19 13:17:49,12,58,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,DQriELaWe2ngMdoHDtQc,2026-02-20 13:17:49,16,51,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,zCzlKqNJqL5aKhF94cc1,2026-02-21 13:17:49,15,55,Campuran,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,fU3EyviCdD70bcHyH54C,2026-02-22 13:17:49,14,57,Campuran,Sehat,Budi,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,uWI5rANKmGDAThVeMzaY,2026-02-23 13:17:49,17,60,Campuran,Sehat,Sri Raharja,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,z94XNXOX5kQY4gOdZaL4,2026-02-24 13:17:49,16,60,Campuran,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,Qi7Ja6fEvZ4LzrfTbnr2,2026-02-25 13:17:49,11,58,Rumput,Sehat,Joko,Laktasi
+hnoxGkPgmLOFvBQY8p38,TLEMBO,perah jenis FH,2025-11-27 04:10:17,SVsmNR707Y29B5ysWxmD,2026-02-26 13:17:49,16,55,Campuran,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,QkeajbIfboLNLoysVOJJ,2025-11-27 09:18:32,0,48,Campuran,Sehat,Sri Raharja,Hamil
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,lJWDbh9zINhdeFeHuZeQ,2025-11-28 08:48:45,0,52,Campuran,Sehat,Sri Raharja,Hamil
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,cnSOAvQg9MGAeR1PmZUn,2025-11-29 12:11:58,0,52,Campuran,Sehat,Sri Raharja,Hamil
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,k1yK6VtSUhH4zlJM3ytO,2025-11-30 10:33:38,0,52,Campuran,Sehat,Sri Raharja,Hamil
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,9sb1LDViHjijQbHYwZdi,2025-12-02 18:55:59,0,52,Campuran,Sehat,Sri Raharja,Hamil
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,cFjeEIiVZONGHmwnza2U,2025-12-28 13:18:33,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,hCNbaUE9MkSjsWelo2Jx,2025-12-29 13:18:33,12,58,Campuran,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,wHatBvRO9uFAA60ZghnB,2025-12-30 13:18:33,13,56,Campuran,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,EL0UfeafcavCMCi8WkY8,2025-12-31 13:18:33,15,57,Rumput,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,iygX4k5KJTr87AD0y1Mz,2026-01-01 13:18:33,13,54,Campuran,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,JWIuLVhOaCIi6hEb4PdL,2026-01-02 13:18:33,15,50,Rumput,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,1CS6Z0zkgbQG5KKYweWL,2026-01-03 13:18:33,17,56,Rumput,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,YgAGgjCuU01PU12Nz5Yt,2026-01-04 13:18:33,14,58,Campuran,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,7PSSXTqZyrRWEdEpcRFe,2026-01-05 13:18:33,14,51,Rumput,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,4zan29gchILEzXVCHFiU,2026-01-06 13:18:33,12,58,Rumput,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,yfkdfKvtGVVW6sAISoVt,2026-01-07 13:18:33,15,60,Rumput,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,6g2KebkqvJmXJ7soXO2R,2026-01-08 13:18:33,11,58,Campuran,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,vfK7nbqWy03zAKCvfg2Q,2026-01-09 13:18:33,15,54,Campuran,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,aBN8e5wtIDUnd1NSM5PV,2026-01-10 13:18:33,14,59,Campuran,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,sCPZqGQXtJE81h3NbBcV,2026-01-11 13:18:33,14,50,Campuran,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,eVhZfYQ5wVjed5WqHn3G,2026-01-12 13:18:33,13,55,Rumput,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,t6OhSsBUSj2JRnRDDIVu,2026-01-13 13:18:33,15,59,Rumput,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,Mh5VcsDAuDtDeuDwvPaE,2026-01-14 13:18:33,12,54,Rumput,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,AKBRNxkM4C7I5HDpn4kY,2026-01-15 13:18:33,12,60,Campuran,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,vQz9r4EBWO5oVoSVIL9f,2026-01-16 13:18:33,14,52,Rumput,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,KguXtIB6PdkbZk9UQ25T,2026-01-17 13:18:33,14,50,Rumput,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,yYiNCFS2WLiJMDZhdo1l,2026-01-18 13:18:33,14,56,Rumput,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,3jBHhzoKtVIP0Fknzb0t,2026-01-19 13:18:33,13,55,Rumput,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,5rFtXrTZFKgYYjJD1czW,2026-01-20 13:18:33,14,56,Rumput,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,dAoFwIgxAqO6S0UsIo7a,2026-01-21 13:18:33,16,59,Campuran,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,oxkeItgBjWmBLn9j3LhU,2026-01-22 13:18:33,12,59,Rumput,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,ZzksDlYYexWKUxAomSa1,2026-01-23 13:18:33,12,57,Campuran,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,c1AfE1foVPfKDSErmYj7,2026-01-24 13:18:33,14,58,Rumput,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,EtB887zHvjKlyfZ38t84,2026-01-25 13:18:33,13,50,Campuran,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,qufZZx29scoFM6iyNlfA,2026-01-26 13:18:33,14,60,Rumput,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,r0ld7O2az9xqegWKWudM,2026-01-27 13:18:33,14,58,Campuran,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,IY3LkX2bQJe33qRwl45Z,2026-01-28 13:18:33,14,52,Rumput,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,Y4aDjMWfT0LtlD82NjrG,2026-01-29 13:18:33,12,55,Rumput,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,f5ntXpAdSYRzP4lmYD1Z,2026-01-30 13:18:33,17,52,Rumput,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,vY6JKtRIuzqI6MftX6hl,2026-01-31 13:18:33,16,53,Campuran,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,qpTa5D7xFXhEHgdTB05K,2026-02-01 13:18:33,13,54,Campuran,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,bX8cDalXohh4xv8CN4BL,2026-02-02 13:18:33,15,51,Campuran,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,Y8fCsLSNLjbkzQBKuesr,2026-02-03 13:18:33,15,54,Campuran,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,yWIoUKE36PK1Ca20xX9d,2026-02-04 13:18:33,15,51,Rumput,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,7JGi3wEZuvR73ecZdIIZ,2026-02-05 13:18:33,13,54,Rumput,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,8Q1eoojFRzmbU2FAVuiU,2026-02-06 13:18:33,17,55,Rumput,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,cETDiKKg2D14DTROpEQp,2026-02-07 13:18:33,14,50,Campuran,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,AskgGYwTRSacOKQUZj0i,2026-02-08 13:18:33,13,50,Rumput,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,JcCokA56UKIShy64jdMJ,2026-02-09 13:18:33,11,56,Campuran,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,4rMDWKwI7k9JtwFFJh3g,2026-02-10 13:18:33,7,52,Campuran,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,MdxputpnLzRqn2QQH9OH,2026-02-11 13:18:33,15,51,Rumput,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,nGNVX1f0wKkK61sESvtH,2026-02-12 13:18:33,12,50,Campuran,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,yTqmEZtYptWdUfsa83t7,2026-02-13 13:18:33,14,51,Rumput,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,06d4F79dsSgsreYzztl9,2026-02-14 13:18:33,11,56,Rumput,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,v1wbuItVbA6LCGziJJ4K,2026-02-15 13:18:33,14,55,Rumput,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,Tmw4Q7naXMz7L7Qm5NUQ,2026-02-16 13:18:33,15,57,Campuran,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,51FkOdKCjzG2qef1lxuk,2026-02-17 13:18:33,15,54,Campuran,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,1kWeQV0RTSTOX6gO1HAt,2026-02-18 13:18:33,15,50,Rumput,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,G5sVIDf98tKLngRxzf37,2026-02-19 13:18:33,11,60,Rumput,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,yWhTsLRa3hGvYRS2UnZn,2026-02-20 13:18:33,16,60,Rumput,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,Kt0pejMHWw5gi4f07eMv,2026-02-21 13:18:33,11,60,Rumput,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,dSzQRylYdSuxlRsNxJAx,2026-02-22 13:18:33,12,51,Campuran,Sehat,Joko,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,1gX9iWtpuHeGm3Rxlbv7,2026-02-23 13:18:33,13,51,Rumput,Sehat,Budi,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,u6ol6ERefkaGMPST7NNS,2026-02-24 13:18:33,13,53,Campuran,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,sf2qaQ953sOPlKL4kJbM,2026-02-25 13:18:33,11,54,Rumput,Sehat,Sri Raharja,Laktasi
+kLcrwHC5HSxDnWhbg2T7,DALBAN,Perah peranakan FH,2023-11-15 04:56:28,3yqbm2Q72ixhrkuG6j4s,2026-02-26 13:18:33,11,55,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,IE552JAfXUv7lzB0x5Pc,2025-11-27 09:17:32,12,47,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,QXRhWdCjayq74kIGFfOZ,2025-11-28 08:49:44,12,50,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,AMWae7sg8xVEMDScUUy7,2025-11-29 12:12:37,12,50,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,Zblg3ie7LwU9AwJCRBXX,2025-11-30 10:34:56,0,52,Rumput,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,cZsoFzlUg3l7uutTPGH2,2025-12-02 18:56:30,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,G9LWPpVX26bzi69mXpxu,2025-12-28 13:19:20,15,52,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,iPxKVWI2aklGtjmE3pld,2025-12-29 13:19:20,15,50,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,FJ09XYxZiYhmQsS7qxKe,2025-12-30 13:19:20,15,56,Rumput,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,t1XcqmOK8Lubj1fZZOPe,2025-12-31 13:19:20,13,50,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,8FmdLVGp8VxGIGKSeUST,2026-01-01 13:19:20,15,59,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,Bdw0rJi1wjgPNVfUdxNc,2026-01-02 13:19:20,13,50,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,I1MbWql5KQ2mQBtdDnsh,2026-01-03 13:19:20,10,54,Rumput,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,KoG3UlgmsZFuixRwUf8z,2026-01-04 13:19:20,12,52,Rumput,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,i1OHLmhaHMTc4LAWJge5,2026-01-05 13:19:20,18,56,Rumput,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,JtFUQyNyhcwYnfEcNhTA,2026-01-06 13:19:20,16,54,Rumput,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,ZsLap3zlPA0ugetNYHFd,2026-01-07 13:19:20,15,51,Rumput,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,XoAxmpRxVTAwozkFc7ug,2026-01-08 13:19:20,12,50,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,25EOpITnZzf0krGUEHF2,2026-01-09 13:19:20,13,55,Campuran,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,O4fXIEjC2cciA8XZRxUQ,2026-01-10 13:19:20,12,60,Campuran,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,SKGndnq0RSdMjKSZkdBV,2026-01-11 13:19:20,14,57,Rumput,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,iadlbLBusXODbMEnGIBg,2026-01-12 13:19:20,14,53,Campuran,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,xyN9qtpDyqKOoVXz53e6,2026-01-13 13:19:20,11,57,Rumput,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,P0CtJsG91oNrtaoCiDeo,2026-01-14 13:19:20,13,58,Rumput,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,p07ytASbqk7wk63yQXun,2026-01-15 13:19:20,12,52,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,UUWvtj329F9uwe4k6w3W,2026-01-16 13:19:20,10,59,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,UDivj1upVeGnglzctTej,2026-01-17 13:19:20,16,56,Campuran,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,DVGHHJKNnldCClP96i7Z,2026-01-18 13:19:20,12,58,Campuran,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,NYRWCZAmiimqcGqB56vo,2026-01-19 13:19:20,16,58,Rumput,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,dLYHBXLncTX6p0RxMxmc,2026-01-20 13:19:20,16,53,Campuran,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,naj9SwnP5ivnp872IECa,2026-01-21 13:19:20,14,50,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,VInusluEb6rSTl0ZcngC,2026-01-22 13:19:20,11,54,Rumput,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,V8DyyRQ6zq4sK8hRrRal,2026-01-23 13:19:20,10,56,Rumput,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,bCv7Mz5lBa7vNsHnxSaR,2026-01-24 13:19:20,11,54,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,4a0BQG7hihwaaJKDVgro,2026-01-25 13:19:20,15,51,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,qUerxWL1GzJxpjXo7Kg0,2026-01-26 13:19:20,14,57,Campuran,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,SQk4hsby2297I16nBcQM,2026-01-27 13:19:20,11,55,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,TeE8zkzaljNY2Q9DI9lL,2026-01-28 13:19:20,14,58,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,LOxEp62ORuzTYHUEhBKX,2026-01-29 13:19:20,13,56,Campuran,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,hJRb4ra5UCxxpgyXtoIN,2026-01-30 13:19:20,15,52,Rumput,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,bfAFtTfd6pdfO5jyqcrV,2026-01-31 13:19:20,12,60,Campuran,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,KKDVBJNEIwmBJEKntCoa,2026-02-01 13:19:20,13,53,Campuran,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,mleCAR2SrBvNl6STVJyJ,2026-02-02 13:19:20,14,53,Rumput,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,WxJ3vxQkMZ6AqRDsNP5f,2026-02-03 13:19:20,15,57,Campuran,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,casIT8PtqZFSrT2bLJNZ,2026-02-04 13:19:20,14,58,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,a3Swtk6yw7Kq12cQkolw,2026-02-05 13:19:20,14,54,Campuran,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,sEYC9TDy3DHo1wrkxIZ6,2026-02-06 13:19:20,17,54,Rumput,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,dKFa2qD6xYduSqDLVNGb,2026-02-07 13:19:20,11,59,Campuran,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,FOerzwlwhs8p9B5cglT1,2026-02-08 13:19:20,16,59,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,07QYX8UjugHg1nCrYpWX,2026-02-09 13:19:20,12,52,Rumput,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,oC1kPQU7vBQTMtZYtNgk,2026-02-10 13:19:20,10,56,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,MlFK0ksokBZuE4PQqFS2,2026-02-11 13:19:20,14,57,Rumput,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,AwXa34z5nt214MBhJiIL,2026-02-12 13:19:20,16,50,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,t3SXFHl9a7rLAeVI08Hz,2026-02-13 13:19:20,16,51,Campuran,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,FogoDnHmSNo3U8aDeg78,2026-02-14 13:19:20,12,55,Campuran,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,NEl5bZB07IYDy24oitd2,2026-02-15 13:19:20,17,53,Campuran,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,lWDC9VN4DMJ31sZ6Bqef,2026-02-16 13:19:20,14,57,Rumput,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,SGBv0RVpezxzN8c9IEgr,2026-02-17 13:19:20,15,52,Rumput,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,yZTYeog13rh5aEFcEX3i,2026-02-18 13:19:20,13,51,Rumput,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,H4r3AdAXKtdTmjmYJlLN,2026-02-19 13:19:20,16,51,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,P8DkMppTvo4pDq9BzYLU,2026-02-20 13:19:20,13,59,Rumput,Sehat,Budi,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,F5zzL7PjsP2A6hK5PLIx,2026-02-21 13:19:20,15,60,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,VvOt5qKbN9KxQ9Gbnd4D,2026-02-22 13:19:20,12,56,Campuran,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,nm7X0tgqXjA8MyqnuhAH,2026-02-23 13:19:20,15,57,Rumput,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,Cvvzd48yZKaHBe6nC0py,2026-02-24 13:19:20,10,56,Rumput,Sehat,Joko,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,N7UCUihrWD9JXEVoFxir,2026-02-25 13:19:20,12,59,Rumput,Sehat,Sri Raharja,Laktasi
+lCNVRu98tdxyvsPO2Xyw,women samsudin,perah peranakan FH,2022-11-27 05:15:19,4lKFiJWtKJmg49dFNYoC,2026-02-26 13:19:20,14,58,Campuran,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,MReF1mJY8i663XVypmu0,2025-11-17 08:06:43,20,58,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,AIhcXxMGdoEFeLpsqana,2025-11-28 08:50:26,18,53,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,hwC8SBj9iCYh7nn8N0DX,2025-11-29 12:13:10,18,53,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,UfBYT4ml6ZyLrdgTPuQw,2025-11-30 10:35:21,16,53,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,kXqNUssDMp6pkg4SbGQN,2025-11-30 12:13:57,18,53,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,YUOwLGn1rGU7eSXXXGu3,2025-12-02 18:57:06,18,52,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,X7v7Zr2zL3WnhOfGl32Y,2025-12-28 13:20:21,18,52,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,xYkmjfUxJoyCKkj4o8ag,2025-12-29 13:20:21,14,56,Campuran,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,5wUpJS0JYo26wtUuTLpy,2025-12-30 13:20:21,12,54,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,BLUZH65AdG8g3pt9JWlY,2025-12-31 13:20:21,12,54,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,y9Lart4frqH7z0xC0Lz5,2026-01-01 13:20:21,13,50,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,s3VR9xiT7NEvYVMXOhpW,2026-01-02 13:20:21,16,50,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,myHAeoLfknaLLhnYuCgC,2026-01-03 13:20:21,12,51,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,1HsOwn8WItZiwOopvNsU,2026-01-04 13:20:21,11,52,Rumput,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,8l9A6zIUkJ7wNPE3Aus3,2026-01-05 13:20:21,10,57,Rumput,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,3ldff9WrkU3GSDig7Gju,2026-01-06 13:20:21,17,53,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,6gTmk6g6PvtfWcWx0kKv,2026-01-07 13:20:21,18,60,Rumput,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,xbE09w2QlIkGapseoiIm,2026-01-08 13:20:21,13,56,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,OTIifuCz3qamMpK2E0qd,2026-01-09 13:20:21,12,52,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,u70bfmzZz67OTlQt8CIC,2026-01-10 13:20:21,15,55,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,teMBpvd7jJARjhBEikjt,2026-01-11 13:20:21,13,52,Rumput,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,LOnekbXwheggJd6czltG,2026-01-12 13:20:21,9,56,Campuran,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,woazPUFzs3D03gLbpBEE,2026-01-13 13:20:21,14,53,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,YyUk4CbTZoy7WyNhRICe,2026-01-14 13:20:21,15,52,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,Uo4FIY2eG3E8VZqvkI4F,2026-01-15 13:20:21,14,56,Campuran,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,V5bLoPXNYNsmt1UFoW7d,2026-01-16 13:20:21,14,55,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,3em5iZe2jUYFToSngsVY,2026-01-17 13:20:21,12,54,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,c7noHYD8rLxzKqLozQjN,2026-01-18 13:20:21,14,54,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,1BjuUSW96mwQ7WjFmW3M,2026-01-19 13:20:21,11,60,Rumput,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,r3UeCkZnGfLYKF2DgzGj,2026-01-20 13:20:21,13,55,Campuran,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,BDtYSXRHgNcGgbm1J8A5,2026-01-21 13:20:21,13,58,Rumput,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,9ICuJuW2gTtInKMqvcyv,2026-01-22 13:20:21,13,53,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,mQocn5efoEgurDs9w5C0,2026-01-23 13:20:21,14,51,Campuran,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,h3dqHxHIZluOTboLhOvc,2026-01-24 13:20:21,17,58,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,bn7r8oPJOV3ZXMlqrEtg,2026-01-25 13:20:21,15,55,Rumput,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,6mH6AenBHbtGSWNZ1QGC,2026-01-26 13:20:21,15,59,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,j8IcQiLW9Db93gtZ7Tjn,2026-01-27 13:20:21,15,54,Rumput,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,KdIAJbu3GWyGpmt19lKp,2026-01-28 13:20:21,13,52,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,jBP1rBAMo6JjGyd5t2ay,2026-01-29 13:20:21,13,54,Campuran,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,d97E2sisXl7Z7pG9EAg2,2026-01-30 13:20:21,12,55,Campuran,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,0xUXtQc3XGgqytzh6SKn,2026-01-31 13:20:21,13,54,Campuran,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,bk7kACcbJGlXtBKBFMk9,2026-02-01 13:20:21,13,54,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,fTLE3sMyoHLjBLripdKn,2026-02-02 13:20:21,10,51,Campuran,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,T8PUULMr9mGHT5hdFzeT,2026-02-03 13:20:21,14,53,Campuran,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,KcIKgT1CCeLwhKNlEIDX,2026-02-04 13:20:21,10,52,Rumput,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,EoxDD3fevLgjpywwPxMR,2026-02-05 13:20:21,13,51,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,X1kVMV98nD0XDBaIkdPs,2026-02-06 13:20:21,15,54,Campuran,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,nXTJ4TjNwAbJdtXOGT9E,2026-02-07 13:20:21,12,54,Rumput,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,CBLqZxY0CukpsypGsIob,2026-02-08 13:20:21,16,60,Rumput,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,aeoEsME9YST1jg32nVMP,2026-02-09 13:20:21,14,55,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,X1bbCDwMjhtosbjJ9ijR,2026-02-10 13:20:21,16,50,Rumput,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,kDGO0izvYQ3GoTIRqfbp,2026-02-11 13:20:21,10,52,Rumput,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,ATiVskUILpSXiilDd4vN,2026-02-12 13:20:21,12,51,Rumput,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,eVQxmh3FdfUMmsGtqqvX,2026-02-13 13:20:21,12,55,Campuran,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,XTiUGMrKGwUJ8CKXNHRe,2026-02-14 13:20:21,14,56,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,frQdNs0aqq5fqSYIowfW,2026-02-15 13:20:21,14,58,Rumput,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,UFVfbFoJfnDbLD9mJu8s,2026-02-16 13:20:21,14,55,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,FpCZKnMXiefFRtwM8DU2,2026-02-17 13:20:21,13,59,Rumput,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,aB1UlrWHts78kK5Kl3m5,2026-02-18 13:20:21,10,57,Rumput,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,cfxVHOgUZlFbXK8fnqbs,2026-02-19 13:20:21,12,59,Rumput,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,W5JtySA5WQFS2T68X2JF,2026-02-20 13:20:21,12,52,Campuran,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,pqNMaAYqe7wUozepOrqI,2026-02-21 13:20:21,10,52,Campuran,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,ew4d3wDpShXGRvDRY2on,2026-02-22 13:20:21,15,53,Campuran,Sehat,Joko,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,xMD3VuWgnBSMrth1xzCU,2026-02-23 13:20:21,19,54,Campuran,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,z7hKlLPMBFHlHO6XmPcC,2026-02-24 13:20:21,14,51,Rumput,Sehat,Budi,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,SdDufrleKLltXSwLzNTl,2026-02-25 13:20:21,15,58,Campuran,Sehat,Sri Raharja,Laktasi
+mdSS6pLQHjBRQxGJslGb,BLAK DIRMAN,Perah jenis FH,2021-11-17 08:02:54,zqclwLQhBBjLdbOFzTtH,2026-02-26 13:20:21,13,52,Rumput,Sehat,Sri Raharja,Laktasi
