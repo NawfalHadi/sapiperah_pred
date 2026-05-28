@@ -4,6 +4,7 @@ import pandas as pd
 import firebase_admin
 from firebase_admin import credentials, firestore
 import threading
+from datetime import datetime
 
 class FirestoreUploaderApp:
     def __init__(self, root):
@@ -69,12 +70,16 @@ class FirestoreUploaderApp:
         
         threading.Thread(target=self.process_upload, daemon=True).start()
 
+    def parse_date(self, date_str):
+        try:
+            return datetime.strptime(str(date_str), '%Y-%m-%d %H:%M:%S')
+        except Exception:
+            return None
+
     def process_upload(self):
         try:
-            # Membaca data CSV
             df = pd.read_csv(self.csv_filepath)
             
-            # Membatasi data jika input Max Data diisi
             max_limit_str = self.entry_max.get().strip()
             if max_limit_str.isdigit():
                 max_limit = int(max_limit_str)
@@ -100,27 +105,28 @@ class FirestoreUploaderApp:
                 pemerahan_id = str(row['pemerahan_id'])
                 
                 sapi_ref = self.db.collection('DataBackup').document(sapi_id)
-                pemerahan_ref = sapi_ref.collection('pemerahan').document(pemerahan_id)
+                pemerahan_ref = sapi_ref.collection('Pemerahan').document(pemerahan_id)
 
                 if sapi_id not in uploaded_sapi_ids:
                     sapi_data = {
-                        'Nama': row.get('nama_sapi', ''),
-                        'Jenis': row.get('jenis_sapi', ''),
-                        'TglLahir': row.get('tgl_lahir', ''),
+                        'Nama': str(row.get('nama_sapi', '')),
+                        'Jenis': str(row.get('jenis_sapi', '')),
+                        'TglLahir': self.parse_date(row.get('tgl_lahir', '')),
                         'Kelamin': 'Betina'
                     }
                     batch.set(sapi_ref, sapi_data, merge=True)
                     uploaded_sapi_ids.add(sapi_id)
                     operations_count += 1
 
+                # --- PERUBAHAN ADA DI SINI: str() ditambahkan ---
                 pemerahan_data = {
-                    'jenisPakan': row.get('jenis_pakan', ''),
-                    'jumlahSusu': row.get('jumlah_susu', 0),
-                    'kondisiSapi': row.get('kondisi_sapi', ''),
-                    'pemerah': row.get('pemerah', ''),
-                    'statusReproduksi': row.get('status_reproduksi', ''),
-                    'tglPemerahan': row.get('tgl_pemerahan', ''),
-                    'volumePakan': row.get('volume_pakan', 0)
+                    'jenisPakan': str(row.get('jenis_pakan', '')),
+                    'jumlahSusu': str(row.get('jumlah_susu', '0')),    # Diubah ke string
+                    'kondisiSapi': str(row.get('kondisi_sapi', '')),
+                    'pemerah': str(row.get('pemerah', '')),
+                    'statusReproduksi': str(row.get('status_reproduksi', '')),
+                    'tglPemerahan': self.parse_date(row.get('tgl_pemerahan', '')),
+                    'volumePakan': str(row.get('volume_pakan', '0'))   # Diubah ke string
                 }
                 batch.set(pemerahan_ref, pemerahan_data)
                 operations_count += 1
@@ -136,21 +142,15 @@ class FirestoreUploaderApp:
             if operations_count > 0:
                 batch.commit()
 
-            # --- BAGIAN BARU: PRINT SUMMARY PER SAPI ---
             print("\n" + "="*45)
             print("LAPORAN DATA YANG BERHASIL DI-UPLOAD")
             print("="*45)
-            
-            # Kelompokkan berdasarkan nama_sapi dan status_reproduksi
             grouped = df.groupby('nama_sapi')['status_reproduksi'].value_counts().unstack(fill_value=0)
-            
             for sapi_name, counts in grouped.iterrows():
                 hamil_count = counts.get('Hamil', 0)
                 laktasi_count = counts.get('Laktasi', 0)
                 print(f"{sapi_name} : hamil {hamil_count} data | laktasi {laktasi_count} data")
-            
             print("="*45 + "\n")
-            # -------------------------------------------
 
             self.root.after(0, lambda: self.upload_complete(total_records, len(uploaded_sapi_ids)))
 
